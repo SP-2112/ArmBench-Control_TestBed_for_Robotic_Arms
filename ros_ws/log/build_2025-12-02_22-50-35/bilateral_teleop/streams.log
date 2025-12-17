@@ -1,0 +1,22 @@
+[0.487s] Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop': AMENT_PREFIX_PATH=/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2 PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages:/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(arm-test) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/build --no-deps symlink_data
+[0.690s] running develop
+[0.829s] running egg_info
+[0.829s] writing bilateral_teleop.egg-info/PKG-INFO
+[0.829s] writing dependency_links to bilateral_teleop.egg-info/dependency_links.txt
+[0.829s] writing entry points to bilateral_teleop.egg-info/entry_points.txt
+[0.829s] writing requirements to bilateral_teleop.egg-info/requires.txt
+[0.829s] writing top-level names to bilateral_teleop.egg-info/top_level.txt
+[0.831s] reading manifest file 'bilateral_teleop.egg-info/SOURCES.txt'
+[0.831s] writing manifest file 'bilateral_teleop.egg-info/SOURCES.txt'
+[0.832s] running build_ext
+[0.832s] Creating /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages/bilateral-teleop.egg-link (link to .)
+[0.833s] Installing direct_bilateral script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.833s] Installing direct_bilateral_scaled script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.833s] Installing moveit2_bilateral script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.833s] Installing moveit2_bilateral_direct script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.834s] Installing rx150_fk script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.834s] Installing viper_ik script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.834s] 
+[0.834s] Installed /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop
+[0.834s] running symlink_data
+[0.853s] Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop' returned '0': AMENT_PREFIX_PATH=/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2 PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages:/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(arm-test) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/build --no-deps symlink_data

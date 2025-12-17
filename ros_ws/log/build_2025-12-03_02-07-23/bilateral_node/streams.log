@@ -1,0 +1,52 @@
+[0.884s] Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/src/bilateral_node': PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bilateral_node build --build-base /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build install --record /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/install.log --single-version-externally-managed install_data
+[1.065s] running egg_info
+[1.066s] creating ../../build/bilateral_node/bilateral_node.egg-info
+[1.066s] writing ../../build/bilateral_node/bilateral_node.egg-info/PKG-INFO
+[1.066s] writing dependency_links to ../../build/bilateral_node/bilateral_node.egg-info/dependency_links.txt
+[1.066s] writing entry points to ../../build/bilateral_node/bilateral_node.egg-info/entry_points.txt
+[1.066s] writing requirements to ../../build/bilateral_node/bilateral_node.egg-info/requires.txt
+[1.066s] writing top-level names to ../../build/bilateral_node/bilateral_node.egg-info/top_level.txt
+[1.066s] writing manifest file '../../build/bilateral_node/bilateral_node.egg-info/SOURCES.txt'
+[1.068s] reading manifest file '../../build/bilateral_node/bilateral_node.egg-info/SOURCES.txt'
+[1.068s] writing manifest file '../../build/bilateral_node/bilateral_node.egg-info/SOURCES.txt'
+[1.068s] running build
+[1.068s] running build_py
+[1.068s] creating /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build
+[1.068s] creating /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build/lib
+[1.068s] creating /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build/lib/bilateral_node
+[1.068s] copying bilateral_node/__init__.py -> /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build/lib/bilateral_node
+[1.068s] copying bilateral_node/claude.py -> /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build/lib/bilateral_node
+[1.069s] copying bilateral_node/basics.py -> /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build/lib/bilateral_node
+[1.069s] copying bilateral_node/bilateral_kinematics.py -> /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build/lib/bilateral_node
+[1.069s] copying bilateral_node/bilateral_node.py -> /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build/lib/bilateral_node
+[1.069s] copying bilateral_node/bilateral_kinematics_pink.py -> /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build/lib/bilateral_node
+[1.069s] running install
+[1.070s] running install_lib
+[1.070s] creating /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages/bilateral_node
+[1.070s] copying /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build/lib/bilateral_node/__init__.py -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages/bilateral_node
+[1.070s] copying /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build/lib/bilateral_node/claude.py -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages/bilateral_node
+[1.070s] copying /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build/lib/bilateral_node/basics.py -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages/bilateral_node
+[1.071s] copying /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build/lib/bilateral_node/bilateral_kinematics.py -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages/bilateral_node
+[1.071s] copying /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build/lib/bilateral_node/bilateral_node.py -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages/bilateral_node
+[1.071s] copying /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build/lib/bilateral_node/bilateral_kinematics_pink.py -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages/bilateral_node
+[1.071s] byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages/bilateral_node/__init__.py to __init__.cpython-310.pyc
+[1.071s] byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages/bilateral_node/claude.py to claude.cpython-310.pyc
+[1.072s] byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages/bilateral_node/basics.py to basics.cpython-310.pyc
+[1.073s] byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages/bilateral_node/bilateral_kinematics.py to bilateral_kinematics.cpython-310.pyc
+[1.074s] byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages/bilateral_node/bilateral_node.py to bilateral_node.cpython-310.pyc
+[1.074s] byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages/bilateral_node/bilateral_kinematics_pink.py to bilateral_kinematics_pink.cpython-310.pyc
+[1.074s] running install_data
+[1.075s] creating /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/share/ament_index
+[1.075s] creating /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/share/ament_index/resource_index
+[1.075s] creating /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/share/ament_index/resource_index/packages
+[1.075s] copying resource/bilateral_node -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/share/ament_index/resource_index/packages
+[1.075s] copying package.xml -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/share/bilateral_node
+[1.075s] running install_egg_info
+[1.076s] Copying ../../build/bilateral_node/bilateral_node.egg-info to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages/bilateral_node-0.0.0-py3.10.egg-info
+[1.077s] running install_scripts
+[1.090s] Installing bilateralKinematics script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/bilateral_node
+[1.090s] Installing bilateralKinematicsPink script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/bilateral_node
+[1.090s] Installing bilateral_basics script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/bilateral_node
+[1.090s] Installing bilateral_node script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/bilateral_node
+[1.091s] writing list of installed files to '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/install.log'
+[1.148s] Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/src/bilateral_node' returned '0': PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bilateral_node build --build-base /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/build install --record /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_node/install.log --single-version-externally-managed install_data

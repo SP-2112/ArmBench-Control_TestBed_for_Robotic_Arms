@@ -1,0 +1,25 @@
+[ 33%] Building CXX object CMakeFiles/xs_sdk.dir/src/xs_sdk.cpp.o
+[ 66%] Building CXX object CMakeFiles/xs_sdk.dir/src/xs_sdk_obj.cpp.o
+[ 66%] Linking CXX executable xs_sdk
+[100%] Built target xs_sdk
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/lib/interbotix_xs_sdk/xs_sdk
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/lib/interbotix_xs_sdk/xs_sdk_sim.py
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/interbotix_xs_sdk//config/mode_configs_template.yaml
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/interbotix_xs_sdk//config/motor_configs_template.yaml
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/ament_index/resource_index/package_run_dependencies/interbotix_xs_sdk
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/ament_index/resource_index/parent_prefix_path/interbotix_xs_sdk
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/interbotix_xs_sdk/environment/ament_prefix_path.sh
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/interbotix_xs_sdk/environment/ament_prefix_path.dsv
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/interbotix_xs_sdk/environment/path.sh
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/interbotix_xs_sdk/environment/path.dsv
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/interbotix_xs_sdk/local_setup.bash
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/interbotix_xs_sdk/local_setup.sh
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/interbotix_xs_sdk/local_setup.zsh
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/interbotix_xs_sdk/local_setup.dsv
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/interbotix_xs_sdk/package.dsv
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/ament_index/resource_index/packages/interbotix_xs_sdk
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/interbotix_xs_sdk/cmake/interbotix_xs_sdkConfig.cmake
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/interbotix_xs_sdk/cmake/interbotix_xs_sdkConfig-version.cmake
+-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_sdk/share/interbotix_xs_sdk/package.xml

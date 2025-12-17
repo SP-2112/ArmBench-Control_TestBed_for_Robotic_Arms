@@ -1,0 +1,24 @@
+[0.024s] Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/arm_launch': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop:/home/yash_sai/Yash/Arm/ros_ws/install/config_teleop:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node:/opt/ros/humble /usr/bin/cmake --build /home/yash_sai/Yash/Arm/ros_ws/build/arm_launch -- -j24 -l24
+[0.644s] Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/arm_launch' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop:/home/yash_sai/Yash/Arm/ros_ws/install/config_teleop:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node:/opt/ros/humble /usr/bin/cmake --build /home/yash_sai/Yash/Arm/ros_ws/build/arm_launch -- -j24 -l24
+[0.645s] Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/arm_launch': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop:/home/yash_sai/Yash/Arm/ros_ws/install/config_teleop:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node:/opt/ros/humble /usr/bin/cmake --install /home/yash_sai/Yash/Arm/ros_ws/build/arm_launch
+[0.652s] -- Install configuration: ""
+[0.652s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch//launch
+[0.652s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch//launch/arm_bringup.launch.py
+[0.652s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch//launch/bilateral_sim.launch.py
+[0.652s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch//launch/arm_and_bilateral.launch.py
+[0.652s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/ament_index/resource_index/package_run_dependencies/arm_launch
+[0.652s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/ament_index/resource_index/parent_prefix_path/arm_launch
+[0.652s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch/environment/ament_prefix_path.sh
+[0.653s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch/environment/ament_prefix_path.dsv
+[0.653s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch/environment/path.sh
+[0.653s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch/environment/path.dsv
+[0.653s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch/local_setup.bash
+[0.653s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch/local_setup.sh
+[0.653s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch/local_setup.zsh
+[0.653s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch/local_setup.dsv
+[0.653s] -- Installing: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch/package.dsv
+[0.653s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/ament_index/resource_index/packages/arm_launch
+[0.653s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch/cmake/arm_launchConfig.cmake
+[0.653s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch/cmake/arm_launchConfig-version.cmake
+[0.653s] -- Up-to-date: /home/yash_sai/Yash/Arm/ros_ws/install/arm_launch/share/arm_launch/package.xml
+[0.655s] Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/arm_launch' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop:/home/yash_sai/Yash/Arm/ros_ws/install/config_teleop:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_node:/opt/ros/humble /usr/bin/cmake --install /home/yash_sai/Yash/Arm/ros_ws/build/arm_launch

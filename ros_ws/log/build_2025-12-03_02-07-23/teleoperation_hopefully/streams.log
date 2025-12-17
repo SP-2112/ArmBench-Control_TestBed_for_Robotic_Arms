@@ -1,0 +1,52 @@
+[0.879s] Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/src/teleoperation_hopefully': PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/teleoperation_hopefully build --build-base /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build install --record /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/install.log --single-version-externally-managed install_data
+[1.056s] running egg_info
+[1.057s] creating ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info
+[1.057s] writing ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/PKG-INFO
+[1.057s] writing dependency_links to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/dependency_links.txt
+[1.057s] writing entry points to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/entry_points.txt
+[1.057s] writing requirements to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/requires.txt
+[1.057s] writing top-level names to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/top_level.txt
+[1.057s] writing manifest file '../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/SOURCES.txt'
+[1.058s] reading manifest file '../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/SOURCES.txt'
+[1.059s] writing manifest file '../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/SOURCES.txt'
+[1.059s] running build
+[1.059s] running build_py
+[1.059s] creating /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build
+[1.059s] creating /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib
+[1.059s] creating /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully
+[1.059s] copying teleoperation_hopefully/move_it_2_ik.py -> /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully
+[1.060s] copying teleoperation_hopefully/diff_ik.py -> /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully
+[1.060s] copying teleoperation_hopefully/__init__.py -> /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully
+[1.060s] copying teleoperation_hopefully/fk.py -> /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully
+[1.060s] copying teleoperation_hopefully/ik.py -> /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully
+[1.060s] copying teleoperation_hopefully/modern_robotics.py -> /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully
+[1.061s] running install
+[1.061s] running install_lib
+[1.061s] creating /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully
+[1.061s] copying /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully/move_it_2_ik.py -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully
+[1.061s] copying /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully/diff_ik.py -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully
+[1.061s] copying /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully/__init__.py -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully
+[1.061s] copying /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully/fk.py -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully
+[1.062s] copying /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully/ik.py -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully
+[1.062s] copying /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully/modern_robotics.py -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully
+[1.062s] byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully/move_it_2_ik.py to move_it_2_ik.cpython-310.pyc
+[1.063s] byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully/diff_ik.py to diff_ik.cpython-310.pyc
+[1.064s] byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully/__init__.py to __init__.cpython-310.pyc
+[1.064s] byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully/fk.py to fk.cpython-310.pyc
+[1.065s] byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully/ik.py to ik.cpython-310.pyc
+[1.066s] byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully/modern_robotics.py to modern_robotics.cpython-310.pyc
+[1.069s] running install_data
+[1.069s] creating /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/share/ament_index
+[1.069s] creating /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/share/ament_index/resource_index
+[1.069s] creating /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/share/ament_index/resource_index/packages
+[1.069s] copying resource/teleoperation_hopefully -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/share/ament_index/resource_index/packages
+[1.070s] copying package.xml -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/share/teleoperation_hopefully
+[1.070s] running install_egg_info
+[1.071s] Copying ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully-0.0.0-py3.10.egg-info
+[1.071s] running install_scripts
+[1.084s] Installing diff_ik_vx300s_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+[1.085s] Installing moveit2_ik_vx300s_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+[1.085s] Installing rx150_fk_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+[1.085s] Installing vx300s_ik_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+[1.085s] writing list of installed files to '/home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/install.log'
+[1.143s] Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/src/teleoperation_hopefully' returned '0': PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/teleoperation_hopefully build --build-base /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build install --record /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/install.log --single-version-externally-managed install_data

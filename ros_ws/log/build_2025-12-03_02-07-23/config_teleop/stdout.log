@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/config_teleop/config_teleop.egg-info
+writing ../../build/config_teleop/config_teleop.egg-info/PKG-INFO
+writing dependency_links to ../../build/config_teleop/config_teleop.egg-info/dependency_links.txt
+writing entry points to ../../build/config_teleop/config_teleop.egg-info/entry_points.txt
+writing requirements to ../../build/config_teleop/config_teleop.egg-info/requires.txt
+writing top-level names to ../../build/config_teleop/config_teleop.egg-info/top_level.txt
+writing manifest file '../../build/config_teleop/config_teleop.egg-info/SOURCES.txt'
+reading manifest file '../../build/config_teleop/config_teleop.egg-info/SOURCES.txt'
+writing manifest file '../../build/config_teleop/config_teleop.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/yash_sai/Yash/Arm/ros_ws/build/config_teleop/build
+creating /home/yash_sai/Yash/Arm/ros_ws/build/config_teleop/build/lib
+creating /home/yash_sai/Yash/Arm/ros_ws/build/config_teleop/build/lib/config_teleop
+copying config_teleop/__init__.py -> /home/yash_sai/Yash/Arm/ros_ws/build/config_teleop/build/lib/config_teleop
+running install
+running install_lib
+creating /home/yash_sai/Yash/Arm/ros_ws/install/config_teleop/lib/python3.10/site-packages/config_teleop
+copying /home/yash_sai/Yash/Arm/ros_ws/build/config_teleop/build/lib/config_teleop/__init__.py -> /home/yash_sai/Yash/Arm/ros_ws/install/config_teleop/lib/python3.10/site-packages/config_teleop
+byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/config_teleop/lib/python3.10/site-packages/config_teleop/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/yash_sai/Yash/Arm/ros_ws/install/config_teleop/share/ament_index
+creating /home/yash_sai/Yash/Arm/ros_ws/install/config_teleop/share/ament_index/resource_index
+creating /home/yash_sai/Yash/Arm/ros_ws/install/config_teleop/share/ament_index/resource_index/packages
+copying resource/config_teleop -> /home/yash_sai/Yash/Arm/ros_ws/install/config_teleop/share/ament_index/resource_index/packages
+copying package.xml -> /home/yash_sai/Yash/Arm/ros_ws/install/config_teleop/share/config_teleop
+running install_egg_info
+Copying ../../build/config_teleop/config_teleop.egg-info to /home/yash_sai/Yash/Arm/ros_ws/install/config_teleop/lib/python3.10/site-packages/config_teleop-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/yash_sai/Yash/Arm/ros_ws/build/config_teleop/install.log'

@@ -1,0 +1,1 @@
+/home/yash_sai/Yash/Arm/ros_ws/src/pymoveit2/examples/ex_joint_goal.py

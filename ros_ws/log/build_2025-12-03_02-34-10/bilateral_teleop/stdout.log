@@ -1,0 +1,30 @@
+running egg_info
+writing ../../build/bilateral_teleop/bilateral_teleop.egg-info/PKG-INFO
+writing dependency_links to ../../build/bilateral_teleop/bilateral_teleop.egg-info/dependency_links.txt
+writing entry points to ../../build/bilateral_teleop/bilateral_teleop.egg-info/entry_points.txt
+writing requirements to ../../build/bilateral_teleop/bilateral_teleop.egg-info/requires.txt
+writing top-level names to ../../build/bilateral_teleop/bilateral_teleop.egg-info/top_level.txt
+reading manifest file '../../build/bilateral_teleop/bilateral_teleop.egg-info/SOURCES.txt'
+writing manifest file '../../build/bilateral_teleop/bilateral_teleop.egg-info/SOURCES.txt'
+running build
+running build_py
+copying bilateral_teleop/rx150_fk_publisher.py -> /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/build/lib/bilateral_teleop
+running install
+running install_lib
+copying /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/build/lib/bilateral_teleop/rx150_fk_publisher.py -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages/bilateral_teleop
+byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages/bilateral_teleop/rx150_fk_publisher.py to rx150_fk_publisher.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages/bilateral_teleop-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/bilateral_teleop/bilateral_teleop.egg-info to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages/bilateral_teleop-0.0.0-py3.10.egg-info
+running install_scripts
+Installing direct_bilateral script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+Installing direct_bilateral_scaled script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+Installing fk_publisher script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+Installing moveit2_bilateral script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+Installing moveit2_bilateral_direct script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+Installing rx150_fk script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+Installing rx150_fk_publisher script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+Installing viper_ik script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+Installing vx300s_ik_subscriber script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+writing list of installed files to '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/install.log'

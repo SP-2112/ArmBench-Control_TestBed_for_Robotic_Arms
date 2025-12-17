@@ -1,0 +1,1 @@
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_generator_c/interbotix_xs_msgs/msg/rosidl_generator_c__visibility_control.h

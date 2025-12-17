@@ -1,0 +1,6 @@
+Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/arm_launch': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yash_sai/Yash/Arm/ros_ws/src/arm_launch -DCMAKE_INSTALL_PREFIX=/home/yash_sai/Yash/Arm/ros_ws/install/arm_launch
+Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/arm_launch' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yash_sai/Yash/Arm/ros_ws/src/arm_launch -DCMAKE_INSTALL_PREFIX=/home/yash_sai/Yash/Arm/ros_ws/install/arm_launch
+Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/arm_launch': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yash_sai/Yash/Arm/ros_ws/build/arm_launch -- -j24 -l24
+Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/arm_launch' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yash_sai/Yash/Arm/ros_ws/build/arm_launch -- -j24 -l24
+Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/arm_launch': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yash_sai/Yash/Arm/ros_ws/build/arm_launch
+Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/arm_launch' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yash_sai/Yash/Arm/ros_ws/build/arm_launch

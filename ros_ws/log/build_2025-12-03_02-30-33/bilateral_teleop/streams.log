@@ -1,0 +1,32 @@
+[0.480s] Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/src/bilateral_teleop': PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bilateral_teleop build --build-base /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/build install --record /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/install.log --single-version-externally-managed install_data
+[0.664s] running egg_info
+[0.665s] writing ../../build/bilateral_teleop/bilateral_teleop.egg-info/PKG-INFO
+[0.665s] writing dependency_links to ../../build/bilateral_teleop/bilateral_teleop.egg-info/dependency_links.txt
+[0.665s] writing entry points to ../../build/bilateral_teleop/bilateral_teleop.egg-info/entry_points.txt
+[0.665s] writing requirements to ../../build/bilateral_teleop/bilateral_teleop.egg-info/requires.txt
+[0.665s] writing top-level names to ../../build/bilateral_teleop/bilateral_teleop.egg-info/top_level.txt
+[0.666s] reading manifest file '../../build/bilateral_teleop/bilateral_teleop.egg-info/SOURCES.txt'
+[0.667s] writing manifest file '../../build/bilateral_teleop/bilateral_teleop.egg-info/SOURCES.txt'
+[0.667s] running build
+[0.667s] running build_py
+[0.667s] copying bilateral_teleop/rx150_fk_publisher.py -> /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/build/lib/bilateral_teleop
+[0.668s] running install
+[0.668s] running install_lib
+[0.668s] copying /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/build/lib/bilateral_teleop/rx150_fk_publisher.py -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages/bilateral_teleop
+[0.669s] byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages/bilateral_teleop/rx150_fk_publisher.py to rx150_fk_publisher.cpython-310.pyc
+[0.670s] running install_data
+[0.670s] running install_egg_info
+[0.671s] removing '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages/bilateral_teleop-0.0.0-py3.10.egg-info' (and everything under it)
+[0.671s] Copying ../../build/bilateral_teleop/bilateral_teleop.egg-info to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages/bilateral_teleop-0.0.0-py3.10.egg-info
+[0.672s] running install_scripts
+[0.686s] Installing direct_bilateral script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.686s] Installing direct_bilateral_scaled script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.686s] Installing fk_publisher script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.686s] Installing moveit2_bilateral script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.686s] Installing moveit2_bilateral_direct script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.686s] Installing rx150_fk script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.686s] Installing rx150_fk_publisher script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.686s] Installing viper_ik script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.686s] Installing vx300s_ik_subscriber script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.687s] writing list of installed files to '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/install.log'
+[0.701s] Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/src/bilateral_teleop' returned '0': PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bilateral_teleop build --build-base /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/build install --record /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/install.log --single-version-externally-managed install_data

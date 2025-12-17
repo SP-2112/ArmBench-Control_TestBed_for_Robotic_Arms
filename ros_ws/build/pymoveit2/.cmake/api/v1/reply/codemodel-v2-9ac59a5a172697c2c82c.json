@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-560f663f7e423172d901.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "pymoveit2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_pymoveit2_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_pymoveit2_egg-50dd9c701f04fa1d8ca1.json",
+					"name" : "ament_cmake_python_build_pymoveit2_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_pymoveit2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_pymoveit2-92e0ddbe40ba88f9b115.json",
+					"name" : "ament_cmake_python_symlink_pymoveit2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pymoveit2_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pymoveit2_uninstall-39b2c3f2ed5d8aa48cd5.json",
+					"name" : "pymoveit2_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-76c08973b9e0f75f4a0d.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2",
+		"source" : "/home/yash_sai/Yash/Arm/ros_ws/src/pymoveit2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

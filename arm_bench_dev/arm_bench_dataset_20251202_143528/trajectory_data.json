@@ -1,0 +1,8176 @@
+[
+  {
+    "timestamp": 0.00016951560974121094,
+    "frame_number": 0,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 0.10176205635070801,
+    "frame_number": 1,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 0.20186638832092285,
+    "frame_number": 2,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 0.30196452140808105,
+    "frame_number": 3,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 0.4020552635192871,
+    "frame_number": 4,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 0.502173662185669,
+    "frame_number": 5,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 0.6023046970367432,
+    "frame_number": 6,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 0.702404260635376,
+    "frame_number": 7,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 0.8024888038635254,
+    "frame_number": 8,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 0.9025859832763672,
+    "frame_number": 9,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 1.0026772022247314,
+    "frame_number": 10,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 1.1027889251708984,
+    "frame_number": 11,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 1.2028825283050537,
+    "frame_number": 12,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 1.302973985671997,
+    "frame_number": 13,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 1.4030840396881104,
+    "frame_number": 14,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 1.503171443939209,
+    "frame_number": 15,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 1.6032607555389404,
+    "frame_number": 16,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 1.7033500671386719,
+    "frame_number": 17,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 1.8034398555755615,
+    "frame_number": 18,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 1.903529405593872,
+    "frame_number": 19,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 2.003615140914917,
+    "frame_number": 20,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 2.103708505630493,
+    "frame_number": 21,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 2.2038064002990723,
+    "frame_number": 22,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 2.3038976192474365,
+    "frame_number": 23,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 2.4039902687072754,
+    "frame_number": 24,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 2.5040841102600098,
+    "frame_number": 25,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 2.6041946411132812,
+    "frame_number": 26,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 2.704291582107544,
+    "frame_number": 27,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 2.804380416870117,
+    "frame_number": 28,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 2.904472589492798,
+    "frame_number": 29,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 3.0045697689056396,
+    "frame_number": 30,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 3.1046624183654785,
+    "frame_number": 31,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 3.2047812938690186,
+    "frame_number": 32,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 3.3048768043518066,
+    "frame_number": 33,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 3.404963731765747,
+    "frame_number": 34,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 3.5050742626190186,
+    "frame_number": 35,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 3.6051642894744873,
+    "frame_number": 36,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 3.7052507400512695,
+    "frame_number": 37,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 3.8053436279296875,
+    "frame_number": 38,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 3.9054267406463623,
+    "frame_number": 39,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 4.005516290664673,
+    "frame_number": 40,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 4.105605363845825,
+    "frame_number": 41,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 4.205742597579956,
+    "frame_number": 42,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 4.305832147598267,
+    "frame_number": 43,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 4.4059157371521,
+    "frame_number": 44,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 4.506031036376953,
+    "frame_number": 45,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 4.606137275695801,
+    "frame_number": 46,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 4.706251382827759,
+    "frame_number": 47,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 4.80634331703186,
+    "frame_number": 48,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 4.9064390659332275,
+    "frame_number": 49,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 5.006531238555908,
+    "frame_number": 50,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 5.106626987457275,
+    "frame_number": 51,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 5.206743478775024,
+    "frame_number": 52,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 5.306838035583496,
+    "frame_number": 53,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 5.406932353973389,
+    "frame_number": 54,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 5.5070483684539795,
+    "frame_number": 55,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 5.607143878936768,
+    "frame_number": 56,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 5.707232713699341,
+    "frame_number": 57,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 5.807326555252075,
+    "frame_number": 58,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 5.907419681549072,
+    "frame_number": 59,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 6.0075109004974365,
+    "frame_number": 60,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 6.107605695724487,
+    "frame_number": 61,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 6.207720756530762,
+    "frame_number": 62,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 6.307811737060547,
+    "frame_number": 63,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 6.407896995544434,
+    "frame_number": 64,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 6.508018732070923,
+    "frame_number": 65,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 6.608120441436768,
+    "frame_number": 66,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 6.7082109451293945,
+    "frame_number": 67,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 6.8083014488220215,
+    "frame_number": 68,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 6.908393144607544,
+    "frame_number": 69,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 7.0084826946258545,
+    "frame_number": 70,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 7.108572721481323,
+    "frame_number": 71,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 7.208690881729126,
+    "frame_number": 72,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 7.308785438537598,
+    "frame_number": 73,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 7.408871173858643,
+    "frame_number": 74,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 7.508981704711914,
+    "frame_number": 75,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 7.609079599380493,
+    "frame_number": 76,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 7.709179878234863,
+    "frame_number": 77,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 7.809269666671753,
+    "frame_number": 78,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 7.909361839294434,
+    "frame_number": 79,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 8.009449481964111,
+    "frame_number": 80,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 8.10954475402832,
+    "frame_number": 81,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 8.209654569625854,
+    "frame_number": 82,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 8.309741258621216,
+    "frame_number": 83,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 8.409830331802368,
+    "frame_number": 84,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 8.50994086265564,
+    "frame_number": 85,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 8.61003828048706,
+    "frame_number": 86,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 8.71012568473816,
+    "frame_number": 87,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 8.810216426849365,
+    "frame_number": 88,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 8.910301685333252,
+    "frame_number": 89,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 9.01038646697998,
+    "frame_number": 90,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 9.110475778579712,
+    "frame_number": 91,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 9.210583448410034,
+    "frame_number": 92,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 9.31067156791687,
+    "frame_number": 93,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 9.410766839981079,
+    "frame_number": 94,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 9.510877132415771,
+    "frame_number": 95,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 9.610965490341187,
+    "frame_number": 96,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 9.711053848266602,
+    "frame_number": 97,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 9.81113600730896,
+    "frame_number": 98,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 9.911219358444214,
+    "frame_number": 99,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 10.01132869720459,
+    "frame_number": 100,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 10.11141300201416,
+    "frame_number": 101,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 10.211501598358154,
+    "frame_number": 102,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 10.311583280563354,
+    "frame_number": 103,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 10.41167402267456,
+    "frame_number": 104,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 10.5117769241333,
+    "frame_number": 105,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 10.611876249313354,
+    "frame_number": 106,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 10.711989641189575,
+    "frame_number": 107,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 10.812105417251587,
+    "frame_number": 108,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 10.912204265594482,
+    "frame_number": 109,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 11.012295484542847,
+    "frame_number": 110,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 11.112414360046387,
+    "frame_number": 111,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 11.212505578994751,
+    "frame_number": 112,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 11.312594413757324,
+    "frame_number": 113,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 11.412705183029175,
+    "frame_number": 114,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 11.512796640396118,
+    "frame_number": 115,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 11.612890005111694,
+    "frame_number": 116,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 11.712986707687378,
+    "frame_number": 117,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 11.813102722167969,
+    "frame_number": 118,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 11.913193702697754,
+    "frame_number": 119,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 12.01328420639038,
+    "frame_number": 120,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 12.113398551940918,
+    "frame_number": 121,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 12.213493347167969,
+    "frame_number": 122,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 12.313587427139282,
+    "frame_number": 123,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 12.413674116134644,
+    "frame_number": 124,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 12.513779401779175,
+    "frame_number": 125,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 12.613898277282715,
+    "frame_number": 126,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 12.7140052318573,
+    "frame_number": 127,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 12.814114332199097,
+    "frame_number": 128,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 12.914212703704834,
+    "frame_number": 129,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 13.014310836791992,
+    "frame_number": 130,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 13.11440134048462,
+    "frame_number": 131,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 13.214497327804565,
+    "frame_number": 132,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  },
+  {
+    "timestamp": 13.314610958099365,
+    "frame_number": 133,
+    "motor_states": {
+      "1": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 32
+      },
+      "2": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      },
+      "3": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 31
+      },
+      "4": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "5": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 29
+      },
+      "6": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 28
+      },
+      "7": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 30
+      },
+      "8": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 34
+      },
+      "9": {
+        "position": 2048,
+        "velocity": 0,
+        "torque": 0,
+        "temperature": 33
+      }
+    },
+    "camera_frames": {}
+  }
+]

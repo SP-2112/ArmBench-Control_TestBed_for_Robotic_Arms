@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing bilateral_teleop.egg-info/PKG-INFO
+writing dependency_links to bilateral_teleop.egg-info/dependency_links.txt
+writing entry points to bilateral_teleop.egg-info/entry_points.txt
+writing requirements to bilateral_teleop.egg-info/requires.txt
+writing top-level names to bilateral_teleop.egg-info/top_level.txt
+reading manifest file 'bilateral_teleop.egg-info/SOURCES.txt'
+writing manifest file 'bilateral_teleop.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages/bilateral-teleop.egg-link (link to .)
+Installing direct_bilateral script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+Installing direct_bilateral_scaled script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+Installing moveit2_bilateral script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+Installing moveit2_bilateral_direct script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+Installing rx150_fk script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+Installing viper_ik script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+
+Installed /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop
+running symlink_data

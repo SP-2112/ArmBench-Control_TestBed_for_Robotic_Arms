@@ -1,0 +1,6 @@
+[console_scripts]
+bilateralKinematics = bilateral_node.bilateral_kinematics:main
+bilateralKinematicsPink = bilateral_node.bilateral_kinematics_pink:main
+bilateral_basics = bilateral_node.basics:main
+bilateral_node = bilateral_node.bilateral_node:main
+

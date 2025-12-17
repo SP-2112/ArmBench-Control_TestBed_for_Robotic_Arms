@@ -1,0 +1,76 @@
+[0.007s] Invoking command in '/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_driver': AMENT_PREFIX_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} VIRTUAL_ENV_PROMPT=(arm-test) /usr/bin/cmake /home/yash_sai/Yash/Arm/InterbotixDriver/src/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_driver -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver
+[0.055s] -- The CXX compiler identification is GNU 11.4.0
+[0.061s] -- Detecting CXX compiler ABI info
+[0.122s] -- Detecting CXX compiler ABI info - done
+[0.127s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.127s] -- Detecting CXX compile features
+[0.127s] -- Detecting CXX compile features - done
+[0.128s] -- Found dynamixel_workbench_toolbox: 2.2.2 (/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake)
+[0.235s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.279s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.351s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.356s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.363s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.373s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.386s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.423s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.425s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.501s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.527s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.565s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.577s] -- Looking for C++ include pthread.h
+[0.644s] -- Looking for C++ include pthread.h - found
+[0.644s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.711s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.712s] -- Found Threads: TRUE  
+[0.756s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.825s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.826s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.826s] -- Configured cppcheck include dirs: /home/yash_sai/Yash/Arm/InterbotixDriver/src/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_driver/include;$<BUILD_INTERFACE:/home/yash_sai/Yash/Arm/InterbotixDriver/src/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_driver/include>
+[0.826s] -- Configured cppcheck exclude dirs and/or files: 
+[0.828s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.828s] -- Configured cpplint exclude dirs and/or files: 
+[0.829s] -- Added test 'lint_cmake' to check CMake code style
+[0.831s] -- Added test 'uncrustify' to check C / C++ code style
+[0.831s] -- Configured uncrustify additional arguments: 
+[0.831s] -- Added test 'xmllint' to check XML markup files
+[0.833s] -- Configuring done
+[0.846s] -- Generating done
+[0.849s] -- Build files have been written to: /home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_driver
+[0.855s] Invoked command in '/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_driver' returned '0': AMENT_PREFIX_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} VIRTUAL_ENV_PROMPT=(arm-test) /usr/bin/cmake /home/yash_sai/Yash/Arm/InterbotixDriver/src/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_driver -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver
+[0.857s] Invoking command in '/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_driver': AMENT_PREFIX_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} VIRTUAL_ENV_PROMPT=(arm-test) /usr/bin/cmake --build /home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_driver -- -j24 -l24
+[0.896s] [ 66%] Building CXX object CMakeFiles/interbotix_xs_driver.dir/src/xs_logging.cpp.o
+[0.896s] [ 66%] Building CXX object CMakeFiles/interbotix_xs_driver.dir/src/xs_driver.cpp.o
+[2.623s] [100%] Linking CXX shared library libinterbotix_xs_driver.so
+[2.751s] [100%] Built target interbotix_xs_driver
+[2.759s] Invoked command in '/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_driver' returned '0': AMENT_PREFIX_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} VIRTUAL_ENV_PROMPT=(arm-test) /usr/bin/cmake --build /home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_driver -- -j24 -l24
+[2.760s] Invoking command in '/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_driver': AMENT_PREFIX_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} VIRTUAL_ENV_PROMPT=(arm-test) /usr/bin/cmake --install /home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_driver
+[2.767s] -- Install configuration: ""
+[2.767s] -- Execute custom install script
+[2.767s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/include/interbotix_xs_driver/version.hpp
+[2.774s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/include/interbotix_xs_driver/xs_common.hpp
+[2.781s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/include/interbotix_xs_driver/xs_driver.hpp
+[2.788s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/include/interbotix_xs_driver/xs_logging.hpp
+[2.795s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/package.xml
+[2.801s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/ament_index/resource_index/package_run_dependencies/interbotix_xs_driver
+[2.808s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/ament_index/resource_index/parent_prefix_path/interbotix_xs_driver
+[2.815s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/environment/ament_prefix_path.sh
+[2.821s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/environment/ament_prefix_path.dsv
+[2.828s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/environment/path.sh
+[2.834s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/environment/path.dsv
+[2.842s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/local_setup.bash
+[2.848s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/local_setup.sh
+[2.855s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/local_setup.zsh
+[2.861s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/local_setup.dsv
+[2.868s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/package.dsv
+[2.874s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/ament_index/resource_index/packages/interbotix_xs_driver
+[2.881s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.887s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/cmake/ament_cmake_export_targets-extras.cmake
+[2.894s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/cmake/interbotix_xs_driverConfig.cmake
+[2.900s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/cmake/interbotix_xs_driverConfig-version.cmake
+[2.908s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/package.xml
+[2.908s] -- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/lib/libinterbotix_xs_driver.so
+[2.910s] -- Set runtime path of "/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/lib/libinterbotix_xs_driver.so" to ""
+[2.910s] -- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/cmake/export_interbotix_xs_driverExport.cmake
+[2.910s] -- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_driver/share/interbotix_xs_driver/cmake/export_interbotix_xs_driverExport-noconfig.cmake
+[2.912s] Invoked command in '/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_driver' returned '0': AMENT_PREFIX_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} VIRTUAL_ENV_PROMPT=(arm-test) /usr/bin/cmake --install /home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_driver

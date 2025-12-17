@@ -1,0 +1,196 @@
+[0.080s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build', '--symlink-install', '--packages-select', 'bilateral_teleop']
+[0.080s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=True, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=24, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=['bilateral_teleop'], packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, mixin_files=None, mixin=None, verb_parser=<colcon_mixin.mixin.mixin_argument.MixinArgumentDecorator object at 0x768cd5a0aa10>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x768cd59ccf10>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x768cd59ccf10>>, mixin_verb=('build',))
+[0.213s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.213s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.213s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.213s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.213s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[0.213s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.213s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/yash_sai/Yash/Arm/ros_ws'
+[0.213s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.213s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[0.213s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[0.213s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[0.213s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[0.213s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[0.213s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[0.213s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[0.213s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cmake', 'python']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/arm_launch) by extensions ['ignore', 'ignore_ament_install']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/arm_launch) by extension 'ignore'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/arm_launch) by extension 'ignore_ament_install'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/arm_launch) by extensions ['colcon_pkg']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/arm_launch) by extension 'colcon_pkg'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/arm_launch) by extensions ['colcon_meta']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/arm_launch) by extension 'colcon_meta'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/arm_launch) by extensions ['ros']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/arm_launch) by extension 'ros'
+[0.224s] DEBUG:colcon.colcon_core.package_identification:Package 'src/arm_launch' with type 'ros.ament_cmake' and name 'arm_launch'
+[0.224s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_node) by extensions ['ignore', 'ignore_ament_install']
+[0.224s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_node) by extension 'ignore'
+[0.224s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_node) by extension 'ignore_ament_install'
+[0.224s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_node) by extensions ['colcon_pkg']
+[0.224s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_node) by extension 'colcon_pkg'
+[0.224s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_node) by extensions ['colcon_meta']
+[0.224s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_node) by extension 'colcon_meta'
+[0.224s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_node) by extensions ['ros']
+[0.224s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_node) by extension 'ros'
+[0.225s] DEBUG:colcon.colcon_core.package_identification:Package 'src/bilateral_node' with type 'ros.ament_python' and name 'bilateral_node'
+[0.225s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_teleop) by extensions ['ignore', 'ignore_ament_install']
+[0.225s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_teleop) by extension 'ignore'
+[0.225s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_teleop) by extension 'ignore_ament_install'
+[0.225s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_teleop) by extensions ['colcon_pkg']
+[0.225s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_teleop) by extension 'colcon_pkg'
+[0.225s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_teleop) by extensions ['colcon_meta']
+[0.225s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_teleop) by extension 'colcon_meta'
+[0.225s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_teleop) by extensions ['ros']
+[0.225s] Level 1:colcon.colcon_core.package_identification:_identify(src/bilateral_teleop) by extension 'ros'
+[0.226s] DEBUG:colcon.colcon_core.package_identification:Package 'src/bilateral_teleop' with type 'ros.ament_python' and name 'bilateral_teleop'
+[0.226s] Level 1:colcon.colcon_core.package_identification:_identify(src/config_teleop) by extensions ['ignore', 'ignore_ament_install']
+[0.226s] Level 1:colcon.colcon_core.package_identification:_identify(src/config_teleop) by extension 'ignore'
+[0.226s] Level 1:colcon.colcon_core.package_identification:_identify(src/config_teleop) by extension 'ignore_ament_install'
+[0.226s] Level 1:colcon.colcon_core.package_identification:_identify(src/config_teleop) by extensions ['colcon_pkg']
+[0.226s] Level 1:colcon.colcon_core.package_identification:_identify(src/config_teleop) by extension 'colcon_pkg'
+[0.226s] Level 1:colcon.colcon_core.package_identification:_identify(src/config_teleop) by extensions ['colcon_meta']
+[0.226s] Level 1:colcon.colcon_core.package_identification:_identify(src/config_teleop) by extension 'colcon_meta'
+[0.226s] Level 1:colcon.colcon_core.package_identification:_identify(src/config_teleop) by extensions ['ros']
+[0.226s] Level 1:colcon.colcon_core.package_identification:_identify(src/config_teleop) by extension 'ros'
+[0.227s] DEBUG:colcon.colcon_core.package_identification:Package 'src/config_teleop' with type 'ros.ament_python' and name 'config_teleop'
+[0.227s] Level 1:colcon.colcon_core.package_identification:_identify(src/moveit_2_config) by extensions ['ignore', 'ignore_ament_install']
+[0.227s] Level 1:colcon.colcon_core.package_identification:_identify(src/moveit_2_config) by extension 'ignore'
+[0.227s] Level 1:colcon.colcon_core.package_identification:_identify(src/moveit_2_config) by extension 'ignore_ament_install'
+[0.227s] Level 1:colcon.colcon_core.package_identification:_identify(src/moveit_2_config) by extensions ['colcon_pkg']
+[0.227s] Level 1:colcon.colcon_core.package_identification:_identify(src/moveit_2_config) by extension 'colcon_pkg'
+[0.227s] Level 1:colcon.colcon_core.package_identification:_identify(src/moveit_2_config) by extensions ['colcon_meta']
+[0.227s] Level 1:colcon.colcon_core.package_identification:_identify(src/moveit_2_config) by extension 'colcon_meta'
+[0.227s] Level 1:colcon.colcon_core.package_identification:_identify(src/moveit_2_config) by extensions ['ros']
+[0.227s] Level 1:colcon.colcon_core.package_identification:_identify(src/moveit_2_config) by extension 'ros'
+[0.228s] DEBUG:colcon.colcon_core.package_identification:Package 'src/moveit_2_config' with type 'ros.ament_cmake' and name 'moveit_2_config'
+[0.228s] Level 1:colcon.colcon_core.package_identification:_identify(src/pymoveit2) by extensions ['ignore', 'ignore_ament_install']
+[0.228s] Level 1:colcon.colcon_core.package_identification:_identify(src/pymoveit2) by extension 'ignore'
+[0.228s] Level 1:colcon.colcon_core.package_identification:_identify(src/pymoveit2) by extension 'ignore_ament_install'
+[0.228s] Level 1:colcon.colcon_core.package_identification:_identify(src/pymoveit2) by extensions ['colcon_pkg']
+[0.228s] Level 1:colcon.colcon_core.package_identification:_identify(src/pymoveit2) by extension 'colcon_pkg'
+[0.228s] Level 1:colcon.colcon_core.package_identification:_identify(src/pymoveit2) by extensions ['colcon_meta']
+[0.228s] Level 1:colcon.colcon_core.package_identification:_identify(src/pymoveit2) by extension 'colcon_meta'
+[0.228s] Level 1:colcon.colcon_core.package_identification:_identify(src/pymoveit2) by extensions ['ros']
+[0.228s] Level 1:colcon.colcon_core.package_identification:_identify(src/pymoveit2) by extension 'ros'
+[0.228s] DEBUG:colcon.colcon_core.package_identification:Package 'src/pymoveit2' with type 'ros.ament_cmake' and name 'pymoveit2'
+[0.229s] Level 1:colcon.colcon_core.package_identification:_identify(src/teleoperation_hopefully) by extensions ['ignore', 'ignore_ament_install']
+[0.229s] Level 1:colcon.colcon_core.package_identification:_identify(src/teleoperation_hopefully) by extension 'ignore'
+[0.229s] Level 1:colcon.colcon_core.package_identification:_identify(src/teleoperation_hopefully) by extension 'ignore_ament_install'
+[0.229s] Level 1:colcon.colcon_core.package_identification:_identify(src/teleoperation_hopefully) by extensions ['colcon_pkg']
+[0.229s] Level 1:colcon.colcon_core.package_identification:_identify(src/teleoperation_hopefully) by extension 'colcon_pkg'
+[0.229s] Level 1:colcon.colcon_core.package_identification:_identify(src/teleoperation_hopefully) by extensions ['colcon_meta']
+[0.229s] Level 1:colcon.colcon_core.package_identification:_identify(src/teleoperation_hopefully) by extension 'colcon_meta'
+[0.229s] Level 1:colcon.colcon_core.package_identification:_identify(src/teleoperation_hopefully) by extensions ['ros']
+[0.229s] Level 1:colcon.colcon_core.package_identification:_identify(src/teleoperation_hopefully) by extension 'ros'
+[0.229s] DEBUG:colcon.colcon_core.package_identification:Package 'src/teleoperation_hopefully' with type 'ros.ament_python' and name 'teleoperation_hopefully'
+[0.229s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[0.229s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[0.229s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[0.229s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[0.229s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[0.250s] INFO:colcon.colcon_core.package_selection:Skipping not selected package 'arm_launch' in 'src/arm_launch'
+[0.250s] INFO:colcon.colcon_core.package_selection:Skipping not selected package 'bilateral_node' in 'src/bilateral_node'
+[0.250s] INFO:colcon.colcon_core.package_selection:Skipping not selected package 'config_teleop' in 'src/config_teleop'
+[0.250s] INFO:colcon.colcon_core.package_selection:Skipping not selected package 'moveit_2_config' in 'src/moveit_2_config'
+[0.250s] INFO:colcon.colcon_core.package_selection:Skipping not selected package 'pymoveit2' in 'src/pymoveit2'
+[0.250s] INFO:colcon.colcon_core.package_selection:Skipping not selected package 'teleoperation_hopefully' in 'src/teleoperation_hopefully'
+[0.250s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[0.250s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[0.252s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 428 installed packages in /opt/ros/humble
+[0.254s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[0.292s] Level 5:colcon.colcon_core.verb:set package 'bilateral_teleop' build argument 'cmake_args' from command line to 'None'
+[0.292s] Level 5:colcon.colcon_core.verb:set package 'bilateral_teleop' build argument 'cmake_target' from command line to 'None'
+[0.292s] Level 5:colcon.colcon_core.verb:set package 'bilateral_teleop' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.292s] Level 5:colcon.colcon_core.verb:set package 'bilateral_teleop' build argument 'cmake_clean_cache' from command line to 'False'
+[0.292s] Level 5:colcon.colcon_core.verb:set package 'bilateral_teleop' build argument 'cmake_clean_first' from command line to 'False'
+[0.292s] Level 5:colcon.colcon_core.verb:set package 'bilateral_teleop' build argument 'cmake_force_configure' from command line to 'False'
+[0.292s] Level 5:colcon.colcon_core.verb:set package 'bilateral_teleop' build argument 'ament_cmake_args' from command line to 'None'
+[0.292s] Level 5:colcon.colcon_core.verb:set package 'bilateral_teleop' build argument 'catkin_cmake_args' from command line to 'None'
+[0.292s] Level 5:colcon.colcon_core.verb:set package 'bilateral_teleop' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.292s] DEBUG:colcon.colcon_core.verb:Building package 'bilateral_teleop' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop', 'merge_install': False, 'path': '/home/yash_sai/Yash/Arm/ros_ws/src/bilateral_teleop', 'symlink_install': True, 'test_result_base': None}
+[0.292s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[0.293s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[0.293s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/yash_sai/Yash/Arm/ros_ws/src/bilateral_teleop' with build type 'ament_python'
+[0.293s] Level 1:colcon.colcon_core.shell:create_environment_hook('bilateral_teleop', 'ament_prefix_path')
+[0.295s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.295s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/hook/ament_prefix_path.ps1'
+[0.299s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/hook/ament_prefix_path.dsv'
+[0.299s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/hook/ament_prefix_path.sh'
+[0.300s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.300s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.498s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/yash_sai/Yash/Arm/ros_ws/src/bilateral_teleop'
+[0.499s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.499s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.838s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop': PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/build --no-deps symlink_data
+[1.195s] Level 1:colcon.colcon_core.shell:create_environment_hook('bilateral_teleop', 'pythonpath_develop')
+[1.195s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/share/bilateral_teleop/hook/pythonpath_develop.ps1'
+[1.195s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop' returned '0': PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/build --no-deps symlink_data
+[1.195s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/share/bilateral_teleop/hook/pythonpath_develop.dsv'
+[1.196s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/share/bilateral_teleop/hook/pythonpath_develop.sh'
+[1.197s] Level 1:colcon.colcon_core.environment:checking '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop' for CMake module files
+[1.198s] Level 1:colcon.colcon_core.environment:checking '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop' for CMake config files
+[1.198s] Level 1:colcon.colcon_core.environment:checking '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib'
+[1.198s] Level 1:colcon.colcon_core.environment:checking '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/bin'
+[1.198s] Level 1:colcon.colcon_core.environment:checking '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/pkgconfig/bilateral_teleop.pc'
+[1.199s] Level 1:colcon.colcon_core.environment:checking '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages'
+[1.199s] Level 1:colcon.colcon_core.shell:create_environment_hook('bilateral_teleop', 'pythonpath')
+[1.199s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/hook/pythonpath.ps1'
+[1.199s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/hook/pythonpath.dsv'
+[1.199s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/hook/pythonpath.sh'
+[1.200s] Level 1:colcon.colcon_core.environment:checking '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/bin'
+[1.200s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(bilateral_teleop)
+[1.200s] INFO:colcon.colcon_core.shell:Creating package script '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/package.ps1'
+[1.201s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/package.dsv'
+[1.201s] INFO:colcon.colcon_core.shell:Creating package script '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/package.sh'
+[1.201s] INFO:colcon.colcon_core.shell:Creating package script '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/package.bash'
+[1.202s] INFO:colcon.colcon_core.shell:Creating package script '/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/package.zsh'
+[1.202s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/colcon-core/packages/bilateral_teleop)
+[1.203s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[1.203s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[1.203s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[1.203s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[1.207s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[1.207s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[1.207s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[1.215s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[1.215s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/yash_sai/Yash/Arm/ros_ws/install/local_setup.ps1'
+[1.216s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/yash_sai/Yash/Arm/ros_ws/install/_local_setup_util_ps1.py'
+[1.217s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/yash_sai/Yash/Arm/ros_ws/install/setup.ps1'
+[1.217s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/yash_sai/Yash/Arm/ros_ws/install/local_setup.sh'
+[1.218s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/yash_sai/Yash/Arm/ros_ws/install/_local_setup_util_sh.py'
+[1.218s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/yash_sai/Yash/Arm/ros_ws/install/setup.sh'
+[1.219s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/yash_sai/Yash/Arm/ros_ws/install/local_setup.bash'
+[1.219s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/yash_sai/Yash/Arm/ros_ws/install/setup.bash'
+[1.219s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/yash_sai/Yash/Arm/ros_ws/install/local_setup.zsh'
+[1.220s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/yash_sai/Yash/Arm/ros_ws/install/setup.zsh'

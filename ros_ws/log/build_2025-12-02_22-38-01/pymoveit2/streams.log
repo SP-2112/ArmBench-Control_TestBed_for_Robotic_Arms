@@ -1,0 +1,98 @@
+[0.008s] Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yash_sai/Yash/Arm/ros_ws/src/pymoveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2
+[0.049s] -- The C compiler identification is GNU 11.4.0
+[0.089s] -- The CXX compiler identification is GNU 11.4.0
+[0.095s] -- Detecting C compiler ABI info
+[0.147s] -- Detecting C compiler ABI info - done
+[0.152s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.152s] -- Detecting C compile features
+[0.153s] -- Detecting C compile features - done
+[0.155s] -- Detecting CXX compiler ABI info
+[0.215s] -- Detecting CXX compiler ABI info - done
+[0.220s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.220s] -- Detecting CXX compile features
+[0.220s] -- Detecting CXX compile features - done
+[0.223s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.331s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.375s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.505s] -- Configuring done
+[0.509s] -- Generating done
+[0.510s] -- Build files have been written to: /home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2
+[0.514s] Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yash_sai/Yash/Arm/ros_ws/src/pymoveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2
+[0.515s] Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2 -- -j24 -l24
+[0.556s] Built target ament_cmake_python_symlink_pymoveit2
+[0.743s] running egg_info
+[0.743s] creating pymoveit2.egg-info
+[0.743s] writing pymoveit2.egg-info/PKG-INFO
+[0.743s] writing dependency_links to pymoveit2.egg-info/dependency_links.txt
+[0.743s] writing top-level names to pymoveit2.egg-info/top_level.txt
+[0.743s] writing manifest file 'pymoveit2.egg-info/SOURCES.txt'
+[0.745s] reading manifest file 'pymoveit2.egg-info/SOURCES.txt'
+[0.745s] writing manifest file 'pymoveit2.egg-info/SOURCES.txt'
+[0.763s] Built target ament_cmake_python_build_pymoveit2_egg
+[0.773s] Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2 -- -j24 -l24
+[0.780s] Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2
+[0.786s] -- Install configuration: ""
+[0.786s] -- Execute custom install script
+[0.786s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/pymoveit2/environment/pythonpath.sh
+[0.793s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/pymoveit2/environment/pythonpath.dsv
+[0.800s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-4.2.0-py3.10.egg-info/PKG-INFO
+[0.807s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-4.2.0-py3.10.egg-info/SOURCES.txt
+[0.813s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-4.2.0-py3.10.egg-info/dependency_links.txt
+[0.820s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-4.2.0-py3.10.egg-info/top_level.txt
+[0.827s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/__init__.py
+[0.833s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/gripper_command.py
+[0.839s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/gripper_interface.py
+[0.846s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2.py
+[0.852s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2_gripper.py
+[0.859s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2_servo.py
+[0.865s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/__init__.py
+[0.871s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/crane_x7.py
+[0.878s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/kinova.py
+[0.884s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/lbr.py
+[0.891s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/panda.py
+[0.897s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/phantomx_pincher.py
+[0.904s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/ur.py
+[0.910s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/utils.py
+[0.917s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/lib/pymoveit2/ex_allow_collisions.py
+[0.923s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/lib/pymoveit2/ex_clear_planning_scene.py
+[0.930s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/lib/pymoveit2/ex_collision_mesh.py
+[0.936s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/lib/pymoveit2/ex_collision_primitive.py
+[0.942s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/lib/pymoveit2/ex_fk.py
+[0.949s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/lib/pymoveit2/ex_gripper.py
+[0.956s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/lib/pymoveit2/ex_ik.py
+[0.962s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/lib/pymoveit2/ex_joint_goal.py
+[0.969s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/lib/pymoveit2/ex_orientation_path_constraint.py
+[0.975s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/lib/pymoveit2/ex_pose_goal.py
+[0.982s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/lib/pymoveit2/ex_servo.py
+[0.988s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/ament_index/resource_index/package_run_dependencies/pymoveit2
+[0.995s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/ament_index/resource_index/parent_prefix_path/pymoveit2
+[1.001s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/pymoveit2/environment/ament_prefix_path.sh
+[1.008s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/pymoveit2/environment/ament_prefix_path.dsv
+[1.014s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/pymoveit2/environment/path.sh
+[1.021s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/pymoveit2/environment/path.dsv
+[1.027s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/pymoveit2/local_setup.bash
+[1.034s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/pymoveit2/local_setup.sh
+[1.040s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/pymoveit2/local_setup.zsh
+[1.047s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/pymoveit2/local_setup.dsv
+[1.053s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/pymoveit2/package.dsv
+[1.060s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/ament_index/resource_index/packages/pymoveit2
+[1.067s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/pymoveit2/cmake/pymoveit2Config.cmake
+[1.073s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/pymoveit2/cmake/pymoveit2Config-version.cmake
+[1.080s] -- Symlinking: /home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/share/pymoveit2/package.xml
+[1.122s] Listing '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2'...
+[1.122s] Compiling '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/__init__.py'...
+[1.123s] Compiling '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/gripper_command.py'...
+[1.123s] Compiling '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/gripper_interface.py'...
+[1.123s] Compiling '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2.py'...
+[1.123s] Compiling '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2_gripper.py'...
+[1.123s] Compiling '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2_servo.py'...
+[1.123s] Listing '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots'...
+[1.123s] Compiling '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/__init__.py'...
+[1.123s] Compiling '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/crane_x7.py'...
+[1.123s] Compiling '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/kinova.py'...
+[1.123s] Compiling '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/lbr.py'...
+[1.123s] Compiling '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/panda.py'...
+[1.123s] Compiling '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/phantomx_pincher.py'...
+[1.123s] Compiling '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/ur.py'...
+[1.123s] Compiling '/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/utils.py'...
+[1.127s] Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2

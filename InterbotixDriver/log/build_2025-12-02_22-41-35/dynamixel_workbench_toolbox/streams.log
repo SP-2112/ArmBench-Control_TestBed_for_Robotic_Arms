@@ -1,0 +1,33 @@
+[0.013s] Invoking command in '/home/yash_sai/Yash/Arm/InterbotixDriver/build/dynamixel_workbench_toolbox': CMAKE_PREFIX_PATH=/opt/ros/humble VIRTUAL_ENV_PROMPT=(arm-test) /usr/bin/cmake --build /home/yash_sai/Yash/Arm/InterbotixDriver/build/dynamixel_workbench_toolbox -- -j24 -l24
+[0.224s] Consolidate compiler generated dependencies of target dynamixel_workbench_toolbox
+[0.225s] [100%] Built target dynamixel_workbench_toolbox
+[0.226s] Invoked command in '/home/yash_sai/Yash/Arm/InterbotixDriver/build/dynamixel_workbench_toolbox' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble VIRTUAL_ENV_PROMPT=(arm-test) /usr/bin/cmake --build /home/yash_sai/Yash/Arm/InterbotixDriver/build/dynamixel_workbench_toolbox -- -j24 -l24
+[0.233s] Invoking command in '/home/yash_sai/Yash/Arm/InterbotixDriver/build/dynamixel_workbench_toolbox': CMAKE_PREFIX_PATH=/opt/ros/humble VIRTUAL_ENV_PROMPT=(arm-test) /usr/bin/cmake --install /home/yash_sai/Yash/Arm/InterbotixDriver/build/dynamixel_workbench_toolbox
+[0.241s] -- Install configuration: ""
+[0.241s] -- Execute custom install script
+[0.242s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/lib/libdynamixel_workbench_toolbox.so
+[0.242s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_driver.h
+[0.242s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_item.h
+[0.242s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_tool.h
+[0.242s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_workbench.h
+[0.243s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/library_path.sh
+[0.243s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/library_path.dsv
+[0.243s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/ament_index/resource_index/package_run_dependencies/dynamixel_workbench_toolbox
+[0.243s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/ament_index/resource_index/parent_prefix_path/dynamixel_workbench_toolbox
+[0.243s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/ament_prefix_path.sh
+[0.243s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/ament_prefix_path.dsv
+[0.243s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/path.sh
+[0.243s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/path.dsv
+[0.243s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.bash
+[0.244s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.sh
+[0.244s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.zsh
+[0.244s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.dsv
+[0.244s] -- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/package.dsv
+[0.252s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/ament_index/resource_index/packages/dynamixel_workbench_toolbox
+[0.252s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.252s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.253s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/ament_cmake_export_libraries-extras.cmake
+[0.253s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/dynamixel_workbench_toolboxConfig.cmake
+[0.253s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/dynamixel_workbench_toolboxConfig-version.cmake
+[0.253s] -- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/package.xml
+[0.255s] Invoked command in '/home/yash_sai/Yash/Arm/InterbotixDriver/build/dynamixel_workbench_toolbox' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble VIRTUAL_ENV_PROMPT=(arm-test) /usr/bin/cmake --install /home/yash_sai/Yash/Arm/InterbotixDriver/build/dynamixel_workbench_toolbox

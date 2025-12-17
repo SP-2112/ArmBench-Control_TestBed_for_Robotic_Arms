@@ -1,0 +1,11 @@
+[console_scripts]
+direct_bilateral = bilateral_teleop.direct_bilateral:main
+direct_bilateral_scaled = bilateral_teleop.direct_bilateral:main_scaled
+fk_publisher = bilateral_teleop.fk_publisher:main
+moveit2_bilateral = bilateral_teleop.moveit2_bilateral:main
+moveit2_bilateral_direct = bilateral_teleop.moveit2_bilateral:main_direct
+rx150_fk = bilateral_teleop.reactor_fk:main
+rx150_fk_publisher = bilateral_teleop.rx150_fk_publisher:main
+viper_ik = bilateral_teleop.viper_ik:main
+vx300s_ik_subscriber = bilateral_teleop.vx300s_ik_subscriber:main
+

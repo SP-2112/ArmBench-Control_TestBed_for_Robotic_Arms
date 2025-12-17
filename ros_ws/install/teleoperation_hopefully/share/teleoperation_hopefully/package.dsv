@@ -1,0 +1,6 @@
+source;share/teleoperation_hopefully/hook/pythonpath.ps1
+source;share/teleoperation_hopefully/hook/pythonpath.dsv
+source;share/teleoperation_hopefully/hook/pythonpath.sh
+source;share/teleoperation_hopefully/hook/ament_prefix_path.ps1
+source;share/teleoperation_hopefully/hook/ament_prefix_path.dsv
+source;share/teleoperation_hopefully/hook/ament_prefix_path.sh

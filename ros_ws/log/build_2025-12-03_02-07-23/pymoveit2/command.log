@@ -1,0 +1,6 @@
+Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yash_sai/Yash/Arm/ros_ws/src/pymoveit2 -DCMAKE_INSTALL_PREFIX=/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2
+Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yash_sai/Yash/Arm/ros_ws/src/pymoveit2 -DCMAKE_INSTALL_PREFIX=/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2
+Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2 -- -j24 -l24
+Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2 -- -j24 -l24
+Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2
+Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2

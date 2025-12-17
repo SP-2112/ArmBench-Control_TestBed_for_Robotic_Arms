@@ -1,0 +1,14 @@
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_adapter/interbotix_xs_msgs:msg/ArmJoy.idl
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_adapter/interbotix_xs_msgs:msg/HexJoy.idl
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_adapter/interbotix_xs_msgs:msg/JointGroupCommand.idl
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_adapter/interbotix_xs_msgs:msg/JointSingleCommand.idl
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_adapter/interbotix_xs_msgs:msg/JointTemps.idl
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_adapter/interbotix_xs_msgs:msg/JointTrajectoryCommand.idl
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_adapter/interbotix_xs_msgs:msg/LocobotJoy.idl
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_adapter/interbotix_xs_msgs:msg/TurretJoy.idl
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_adapter/interbotix_xs_msgs:srv/MotorGains.idl
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_adapter/interbotix_xs_msgs:srv/OperatingModes.idl
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_adapter/interbotix_xs_msgs:srv/Reboot.idl
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_adapter/interbotix_xs_msgs:srv/RegisterValues.idl
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_adapter/interbotix_xs_msgs:srv/RobotInfo.idl
+/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs/rosidl_adapter/interbotix_xs_msgs:srv/TorqueEnable.idl

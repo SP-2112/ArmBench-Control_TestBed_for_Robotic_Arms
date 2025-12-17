@@ -1,0 +1,24 @@
+[0.906s] Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/src/teleoperation_hopefully': PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/teleoperation_hopefully build --build-base /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build install --record /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/install.log --single-version-externally-managed install_data
+[1.098s] running egg_info
+[1.098s] writing ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/PKG-INFO
+[1.098s] writing dependency_links to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/dependency_links.txt
+[1.098s] writing entry points to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/entry_points.txt
+[1.098s] writing requirements to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/requires.txt
+[1.099s] writing top-level names to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/top_level.txt
+[1.100s] reading manifest file '../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/SOURCES.txt'
+[1.100s] writing manifest file '../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/SOURCES.txt'
+[1.100s] running build
+[1.101s] running build_py
+[1.101s] running install
+[1.101s] running install_lib
+[1.102s] running install_data
+[1.102s] running install_egg_info
+[1.103s] removing '/home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully-0.0.0-py3.10.egg-info' (and everything under it)
+[1.104s] Copying ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully-0.0.0-py3.10.egg-info
+[1.104s] running install_scripts
+[1.119s] Installing diff_ik_vx300s_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+[1.119s] Installing moveit2_ik_vx300s_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+[1.119s] Installing rx150_fk_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+[1.119s] Installing vx300s_ik_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+[1.120s] writing list of installed files to '/home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/install.log'
+[1.137s] Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/src/teleoperation_hopefully' returned '0': PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/teleoperation_hopefully build --build-base /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build install --record /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/install.log --single-version-externally-managed install_data

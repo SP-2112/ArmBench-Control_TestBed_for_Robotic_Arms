@@ -1,0 +1,19 @@
+{
+  "description": "Well-tuned PID controller for step response",
+  "algorithm": "PID",
+  "parameters": {
+    "Kp": 2.5,
+    "Ki": 0.5,
+    "Kd": 0.15
+  },
+  "simulation_settings": {
+    "sim_time": 10.0,
+    "reference_signal": "step",
+    "reference_amplitude": 1.0
+  },
+  "expected_metrics": {
+    "overshoot_percent": "<10%",
+    "settling_time": "<3s",
+    "steady_state_error": "<0.01"
+  }
+}

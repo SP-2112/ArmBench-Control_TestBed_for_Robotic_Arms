@@ -1,0 +1,22 @@
+[0.488s] Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop': PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/build --no-deps symlink_data
+[0.690s] running develop
+[0.825s] running egg_info
+[0.825s] writing bilateral_teleop.egg-info/PKG-INFO
+[0.825s] writing dependency_links to bilateral_teleop.egg-info/dependency_links.txt
+[0.825s] writing entry points to bilateral_teleop.egg-info/entry_points.txt
+[0.825s] writing requirements to bilateral_teleop.egg-info/requires.txt
+[0.825s] writing top-level names to bilateral_teleop.egg-info/top_level.txt
+[0.826s] reading manifest file 'bilateral_teleop.egg-info/SOURCES.txt'
+[0.827s] writing manifest file 'bilateral_teleop.egg-info/SOURCES.txt'
+[0.828s] running build_ext
+[0.828s] Creating /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages/bilateral-teleop.egg-link (link to .)
+[0.828s] Installing direct_bilateral script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.828s] Installing direct_bilateral_scaled script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.829s] Installing moveit2_bilateral script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.829s] Installing moveit2_bilateral_direct script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.829s] Installing rx150_fk script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.829s] Installing viper_ik script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.829s] 
+[0.829s] Installed /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop
+[0.829s] running symlink_data
+[0.847s] Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop' returned '0': PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/build --no-deps symlink_data

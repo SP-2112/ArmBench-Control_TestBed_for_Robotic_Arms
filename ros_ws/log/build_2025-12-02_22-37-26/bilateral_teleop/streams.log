@@ -1,0 +1,32 @@
+[0.544s] Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop': PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/build --no-deps symlink_data
+[0.745s] running develop
+[0.879s] running egg_info
+[0.879s] creating bilateral_teleop.egg-info
+[0.879s] writing bilateral_teleop.egg-info/PKG-INFO
+[0.879s] writing dependency_links to bilateral_teleop.egg-info/dependency_links.txt
+[0.879s] writing entry points to bilateral_teleop.egg-info/entry_points.txt
+[0.879s] writing requirements to bilateral_teleop.egg-info/requires.txt
+[0.879s] writing top-level names to bilateral_teleop.egg-info/top_level.txt
+[0.879s] writing manifest file 'bilateral_teleop.egg-info/SOURCES.txt'
+[0.881s] reading manifest file 'bilateral_teleop.egg-info/SOURCES.txt'
+[0.881s] writing manifest file 'bilateral_teleop.egg-info/SOURCES.txt'
+[0.882s] running build_ext
+[0.882s] Creating /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages/bilateral-teleop.egg-link (link to .)
+[0.883s] Installing moveit2_bilateral script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.883s] Installing moveit2_bilateral_direct script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.883s] Installing rx150_fk script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.883s] Installing viper_ik script to /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/bilateral_teleop
+[0.883s] 
+[0.883s] Installed /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop
+[0.883s] running symlink_data
+[0.883s] creating /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/ament_index
+[0.883s] creating /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/ament_index/resource_index
+[0.883s] creating /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/ament_index/resource_index/packages
+[0.883s] symbolically linking /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/resource/bilateral_teleop -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/ament_index/resource_index/packages
+[0.883s] symbolically linking /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/package.xml -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop
+[0.883s] creating /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/launch
+[0.884s] symbolically linking /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/launch/bilateral_teleop.launch.py -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/launch
+[0.884s] symbolically linking /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/launch/bilateral_gazebo.launch.py -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/launch
+[0.884s] creating /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/config
+[0.884s] symbolically linking /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/config/bilateral_params.yaml -> /home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/share/bilateral_teleop/config
+[0.902s] Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop' returned '0': PYTHONPATH=/home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yash_sai/Yash/Arm/ros_ws/install/bilateral_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yash_sai/Yash/Arm/ros_ws/build/bilateral_teleop/build --no-deps symlink_data

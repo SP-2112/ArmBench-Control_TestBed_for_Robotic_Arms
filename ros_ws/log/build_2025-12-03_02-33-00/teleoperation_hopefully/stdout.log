@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/PKG-INFO
+writing dependency_links to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/dependency_links.txt
+writing entry points to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/entry_points.txt
+writing requirements to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/requires.txt
+writing top-level names to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/top_level.txt
+reading manifest file '../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/SOURCES.txt'
+writing manifest file '../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully-0.0.0-py3.10.egg-info
+running install_scripts
+Installing diff_ik_vx300s_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+Installing moveit2_ik_vx300s_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+Installing rx150_fk_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+Installing vx300s_ik_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+writing list of installed files to '/home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/install.log'

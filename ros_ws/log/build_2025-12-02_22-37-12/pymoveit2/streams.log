@@ -1,0 +1,23 @@
+[0.008s] Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2': CMAKE_PREFIX_PATH=/opt/ros/humble PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake /home/yash_sai/Yash/Arm/ros_ws/src/pymoveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2
+[0.017s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.097s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.118s] Traceback (most recent call last):
+[0.118s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 22, in <module>
+[0.118s]     from catkin_pkg.package import parse_package_string
+[0.118s] ModuleNotFoundError: No module named 'catkin_pkg'
+[0.120s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[0.120s]   execute_process(/home/yash_sai/Yash/Arm/arm-test/bin/python3
+[0.120s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.120s]   /home/yash_sai/Yash/Arm/ros_ws/src/pymoveit2/package.xml
+[0.120s]   /home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2/ament_cmake_core/package.cmake)
+[0.120s]   returned error code 1
+[0.120s] Call Stack (most recent call first):
+[0.120s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.120s]   /opt/ros/humble/share/ament_cmake_python/cmake/ament_python_install_package.cmake:60 (ament_package_xml)
+[0.120s]   /opt/ros/humble/share/ament_cmake_python/cmake/ament_python_install_package.cmake:39 (_ament_cmake_python_install_package)
+[0.120s]   CMakeLists.txt:9 (ament_python_install_package)
+[0.120s] 
+[0.120s] [0m
+[0.120s] -- Configuring incomplete, errors occurred!
+[0.120s] See also "/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2/CMakeFiles/CMakeOutput.log".
+[0.122s] Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/pymoveit2' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake /home/yash_sai/Yash/Arm/ros_ws/src/pymoveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yash_sai/Yash/Arm/ros_ws/install/pymoveit2

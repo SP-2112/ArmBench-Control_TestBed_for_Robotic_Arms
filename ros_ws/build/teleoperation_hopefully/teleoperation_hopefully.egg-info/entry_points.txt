@@ -1,0 +1,6 @@
+[console_scripts]
+diff_ik_vx300s_node = teleoperation_hopefully.diff_ik:main
+moveit2_ik_vx300s_node = teleoperation_hopefully.move_it_2_ik:main
+rx150_fk_node = teleoperation_hopefully.fk:main
+vx300s_ik_node = teleoperation_hopefully.ik:main
+

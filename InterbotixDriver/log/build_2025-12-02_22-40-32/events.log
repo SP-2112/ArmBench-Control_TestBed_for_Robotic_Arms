@@ -1,0 +1,713 @@
+[0.000000] (-) TimerEvent: {}
+[0.000181] (-) JobUnselected: {'identifier': 'dynamixel_workbench_toolbox'}
+[0.000531] (-) JobUnselected: {'identifier': 'interbotix_common_modules'}
+[0.000545] (-) JobUnselected: {'identifier': 'interbotix_common_sim'}
+[0.000557] (-) JobUnselected: {'identifier': 'interbotix_common_toolbox'}
+[0.000568] (-) JobUnselected: {'identifier': 'interbotix_gravity_compensation'}
+[0.000578] (-) JobUnselected: {'identifier': 'interbotix_moveit_interface'}
+[0.000589] (-) JobUnselected: {'identifier': 'interbotix_moveit_interface_msgs'}
+[0.000599] (-) JobUnselected: {'identifier': 'interbotix_perception_modules'}
+[0.000609] (-) JobUnselected: {'identifier': 'interbotix_perception_msgs'}
+[0.000619] (-) JobUnselected: {'identifier': 'interbotix_perception_pipelines'}
+[0.000629] (-) JobUnselected: {'identifier': 'interbotix_perception_toolbox'}
+[0.000639] (-) JobUnselected: {'identifier': 'interbotix_ros_xsarms'}
+[0.000649] (-) JobUnselected: {'identifier': 'interbotix_ros_xsarms_examples'}
+[0.000661] (-) JobUnselected: {'identifier': 'interbotix_ros_xseries'}
+[0.000673] (-) JobUnselected: {'identifier': 'interbotix_tf_tools'}
+[0.000684] (-) JobUnselected: {'identifier': 'interbotix_xs_driver'}
+[0.000694] (-) JobUnselected: {'identifier': 'interbotix_xs_modules'}
+[0.000704] (-) JobUnselected: {'identifier': 'interbotix_xs_ros_control'}
+[0.000714] (-) JobUnselected: {'identifier': 'interbotix_xs_rviz'}
+[0.000725] (-) JobUnselected: {'identifier': 'interbotix_xs_sdk'}
+[0.000735] (-) JobUnselected: {'identifier': 'interbotix_xs_toolbox'}
+[0.000745] (-) JobUnselected: {'identifier': 'interbotix_xsarm_control'}
+[0.000755] (-) JobUnselected: {'identifier': 'interbotix_xsarm_descriptions'}
+[0.000765] (-) JobUnselected: {'identifier': 'interbotix_xsarm_dual'}
+[0.000775] (-) JobUnselected: {'identifier': 'interbotix_xsarm_gravity_compensation'}
+[0.000785] (-) JobUnselected: {'identifier': 'interbotix_xsarm_joy'}
+[0.000795] (-) JobUnselected: {'identifier': 'interbotix_xsarm_moveit'}
+[0.000805] (-) JobUnselected: {'identifier': 'interbotix_xsarm_moveit_interface'}
+[0.000815] (-) JobUnselected: {'identifier': 'interbotix_xsarm_perception'}
+[0.000825] (-) JobUnselected: {'identifier': 'interbotix_xsarm_puppet'}
+[0.000835] (-) JobUnselected: {'identifier': 'interbotix_xsarm_ros_control'}
+[0.000845] (-) JobUnselected: {'identifier': 'interbotix_xsarm_sim'}
+[0.000855] (-) JobUnselected: {'identifier': 'moveit_visual_tools'}
+[0.000866] (interbotix_xs_msgs) JobQueued: {'identifier': 'interbotix_xs_msgs', 'dependencies': OrderedDict()}
+[0.000879] (interbotix_xs_msgs) JobStarted: {'identifier': 'interbotix_xs_msgs'}
+[0.006240] (interbotix_xs_msgs) JobProgress: {'identifier': 'interbotix_xs_msgs', 'progress': 'cmake'}
+[0.006846] (interbotix_xs_msgs) Command: {'cmd': ['/usr/bin/cmake', '/home/yash_sai/Yash/Arm/InterbotixDriver/src/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_msgs', '-DAMENT_CMAKE_SYMLINK_INSTALL=1', '-DCMAKE_INSTALL_PREFIX=/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs'], 'cwd': '/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('LANGUAGE', 'en_IN:en'), ('USER', 'yash_sai'), ('XDG_SESSION_TYPE', 'x11'), ('GIT_ASKPASS', '/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('SHLVL', '3'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/yash_sai'), ('CHROME_DESKTOP', 'code.desktop'), ('OLDPWD', '/home/yash_sai/Yash/Arm'), ('TERM_PROGRAM_VERSION', '1.105.1'), ('DESKTOP_SESSION', 'ubuntu'), ('OH_SDK_BASE', '/opt/OpenHaptics/Developer/3.4-0'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('XDG_SEAT_PATH', '/org/freedesktop/DisplayManager/Seat0'), ('VSCODE_GIT_ASKPASS_MAIN', '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('VSCODE_GIT_ASKPASS_NODE', '/usr/share/code/code'), ('DBUS_STARTER_BUS_TYPE', 'session'), ('SYSTEMD_EXEC_PID', '2510'), ('VSCODE_PYTHON_AUTOACTIVATE_GUARD', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1002/bus,guid=fd3b1d32d6cf086824bf75b0692e715d'), ('COLORTERM', 'truecolor'), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'yash_sai'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/humble/bin:/usr/bin:/home/yash_sai/Yash/Arm/arm-test/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/yash_sai/.config/Code/User/globalStorage/github.copilot-chat/debugCommand'), ('SESSION_MANAGER', 'local/control-PC:@/tmp/.ICE-unix/2510,unix/control-PC:/tmp/.ICE-unix/2510'), ('GDM_LANG', 'en_US'), ('XDG_SESSION_PATH', '/org/freedesktop/DisplayManager/Session0'), ('XDG_MENU_PREFIX', 'gnome-'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/adf100e1_1114_430f_ada4_c4a890531e46'), ('XDG_RUNTIME_DIR', '/run/user/1002'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':0'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('VIRTUAL_ENV_PROMPT', '(arm-test)'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/home/yash_sai/.Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1002/vscode-git-0edf85eefd.sock'), ('GNOME_TERMINAL_SERVICE', ':1.147'), ('TERM_PROGRAM', 'vscode'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1002/keyring/ssh'), ('XDG_GREETER_DATA_DIR', '/var/lib/lightdm-data/yash_sai'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('GPG_AGENT_INFO', '/run/user/1002/gnupg/S.gpg-agent:0:1'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('GIT_PAGER', 'cat'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('DBUS_STARTER_ADDRESS', 'unix:path=/run/user/1002/bus,guid=fd3b1d32d6cf086824bf75b0692e715d'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[0.049869] (interbotix_xs_msgs) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.4.0\n'}
+[0.091214] (interbotix_xs_msgs) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.4.0\n'}
+[0.096724] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[0.099838] (-) TimerEvent: {}
+[0.150111] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[0.155277] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[0.155477] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[0.155751] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[0.158019] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[0.199912] (-) TimerEvent: {}
+[0.217563] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[0.222886] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[0.223118] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[0.223460] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[0.225939] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)\n'}
+[0.227562] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Found ament_cmake_core: 1.3.12 (/opt/ros/humble/share/ament_cmake_core/cmake)\n'}
+[0.299991] (-) TimerEvent: {}
+[0.333073] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter \n'}
+[0.378807] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Override CMake install command with custom implementation using symlinks instead of copying resources\n'}
+[0.386799] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[0.396214] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)\n'}
+[0.400057] (-) TimerEvent: {}
+[0.469348] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[0.500134] (-) TimerEvent: {}
+[0.505996] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Found std_msgs: 4.9.0 (/opt/ros/humble/share/std_msgs/cmake)\n'}
+[0.533597] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Found trajectory_msgs: 4.9.0 (/opt/ros/humble/share/trajectory_msgs/cmake)\n'}
+[0.600207] (-) TimerEvent: {}
+[0.700366] (-) TimerEvent: {}
+[0.800516] (-) TimerEvent: {}
+[0.845778] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)\n'}
+[0.900583] (-) TimerEvent: {}
+[1.000749] (-) TimerEvent: {}
+[1.045792] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[1.100833] (-) TimerEvent: {}
+[1.201028] (-) TimerEvent: {}
+[1.299853] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[1.301087] (-) TimerEvent: {}
+[1.316733] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") \n'}
+[1.319055] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)\n'}
+[1.339595] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") \n'}
+[1.339725] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Using PYTHON_EXECUTABLE: /usr/bin/python3\n'}
+[1.339775] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10\n'}
+[1.339829] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so\n'}
+[1.355379] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Found PythonExtra: .so  \n'}
+[1.401163] (-) TimerEvent: {}
+[1.409170] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)\n'}
+[1.429887] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Configuring done\n'}
+[1.476091] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Generating done\n'}
+[1.485901] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Build files have been written to: /home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs\n'}
+[1.492826] (interbotix_xs_msgs) CommandEnded: {'returncode': 0}
+[1.493261] (interbotix_xs_msgs) JobProgress: {'identifier': 'interbotix_xs_msgs', 'progress': 'build'}
+[1.493882] (interbotix_xs_msgs) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs', '--', '-j24', '-l24'], 'cwd': '/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('LANGUAGE', 'en_IN:en'), ('USER', 'yash_sai'), ('XDG_SESSION_TYPE', 'x11'), ('GIT_ASKPASS', '/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('SHLVL', '3'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/yash_sai'), ('CHROME_DESKTOP', 'code.desktop'), ('OLDPWD', '/home/yash_sai/Yash/Arm'), ('TERM_PROGRAM_VERSION', '1.105.1'), ('DESKTOP_SESSION', 'ubuntu'), ('OH_SDK_BASE', '/opt/OpenHaptics/Developer/3.4-0'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('XDG_SEAT_PATH', '/org/freedesktop/DisplayManager/Seat0'), ('VSCODE_GIT_ASKPASS_MAIN', '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('VSCODE_GIT_ASKPASS_NODE', '/usr/share/code/code'), ('DBUS_STARTER_BUS_TYPE', 'session'), ('SYSTEMD_EXEC_PID', '2510'), ('VSCODE_PYTHON_AUTOACTIVATE_GUARD', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1002/bus,guid=fd3b1d32d6cf086824bf75b0692e715d'), ('COLORTERM', 'truecolor'), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'yash_sai'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/humble/bin:/usr/bin:/home/yash_sai/Yash/Arm/arm-test/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/yash_sai/.config/Code/User/globalStorage/github.copilot-chat/debugCommand'), ('SESSION_MANAGER', 'local/control-PC:@/tmp/.ICE-unix/2510,unix/control-PC:/tmp/.ICE-unix/2510'), ('GDM_LANG', 'en_US'), ('XDG_SESSION_PATH', '/org/freedesktop/DisplayManager/Session0'), ('XDG_MENU_PREFIX', 'gnome-'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/adf100e1_1114_430f_ada4_c4a890531e46'), ('XDG_RUNTIME_DIR', '/run/user/1002'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':0'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('VIRTUAL_ENV_PROMPT', '(arm-test)'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/home/yash_sai/.Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1002/vscode-git-0edf85eefd.sock'), ('GNOME_TERMINAL_SERVICE', ':1.147'), ('TERM_PROGRAM', 'vscode'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1002/keyring/ssh'), ('XDG_GREETER_DATA_DIR', '/var/lib/lightdm-data/yash_sai'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('GPG_AGENT_INFO', '/run/user/1002/gnupg/S.gpg-agent:0:1'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('GIT_PAGER', 'cat'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('DBUS_STARTER_ADDRESS', 'unix:path=/run/user/1002/bus,guid=fd3b1d32d6cf086824bf75b0692e715d'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[1.501229] (-) TimerEvent: {}
+[1.530143] (interbotix_xs_msgs) StdoutLine: {'line': b'[  1%] \x1b[34m\x1b[1mGenerating C code for ROS interfaces\x1b[0m\n'}
+[1.538686] (interbotix_xs_msgs) StdoutLine: {'line': b'[  1%] \x1b[34m\x1b[1mGenerating C++ code for ROS interfaces\x1b[0m\n'}
+[1.543795] (interbotix_xs_msgs) StdoutLine: {'line': b'[  1%] Built target ament_cmake_python_symlink_interbotix_xs_msgs\n'}
+[1.601322] (-) TimerEvent: {}
+[1.701525] (-) TimerEvent: {}
+[1.729104] (interbotix_xs_msgs) StdoutLine: {'line': b'running egg_info\n'}
+[1.729466] (interbotix_xs_msgs) StdoutLine: {'line': b'creating interbotix_xs_msgs.egg-info\n'}
+[1.729615] (interbotix_xs_msgs) StdoutLine: {'line': b'writing interbotix_xs_msgs.egg-info/PKG-INFO\n'}
+[1.729730] (interbotix_xs_msgs) StdoutLine: {'line': b'writing dependency_links to interbotix_xs_msgs.egg-info/dependency_links.txt\n'}
+[1.729844] (interbotix_xs_msgs) StdoutLine: {'line': b'writing top-level names to interbotix_xs_msgs.egg-info/top_level.txt\n'}
+[1.729993] (interbotix_xs_msgs) StdoutLine: {'line': b"writing manifest file 'interbotix_xs_msgs.egg-info/SOURCES.txt'\n"}
+[1.731243] (interbotix_xs_msgs) StdoutLine: {'line': b"reading manifest file 'interbotix_xs_msgs.egg-info/SOURCES.txt'\n"}
+[1.731589] (interbotix_xs_msgs) StdoutLine: {'line': b"writing manifest file 'interbotix_xs_msgs.egg-info/SOURCES.txt'\n"}
+[1.749807] (interbotix_xs_msgs) StdoutLine: {'line': b'[  1%] Built target ament_cmake_python_build_interbotix_xs_msgs_egg\n'}
+[1.801601] (-) TimerEvent: {}
+[1.901770] (-) TimerEvent: {}
+[2.001920] (-) TimerEvent: {}
+[2.102073] (-) TimerEvent: {}
+[2.202242] (-) TimerEvent: {}
+[2.302388] (-) TimerEvent: {}
+[2.402541] (-) TimerEvent: {}
+[2.502719] (-) TimerEvent: {}
+[2.602873] (-) TimerEvent: {}
+[2.703020] (-) TimerEvent: {}
+[2.803170] (-) TimerEvent: {}
+[2.903308] (-) TimerEvent: {}
+[3.003452] (-) TimerEvent: {}
+[3.103613] (-) TimerEvent: {}
+[3.203797] (-) TimerEvent: {}
+[3.214122] (interbotix_xs_msgs) StdoutLine: {'line': b'[  3%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_xs_msgs/msg/detail/joint_group_command__functions.c.o\x1b[0m\n'}
+[3.214414] (interbotix_xs_msgs) StdoutLine: {'line': b'[  3%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_xs_msgs/msg/detail/hex_joy__functions.c.o\x1b[0m\n'}
+[3.214506] (interbotix_xs_msgs) StdoutLine: {'line': b'[  4%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_xs_msgs/msg/detail/joint_single_command__functions.c.o\x1b[0m\n'}
+[3.214805] (interbotix_xs_msgs) StdoutLine: {'line': b'[  5%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_xs_msgs/msg/detail/joint_temps__functions.c.o\x1b[0m\n'}
+[3.214880] (interbotix_xs_msgs) StdoutLine: {'line': b'[  5%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_xs_msgs/msg/detail/joint_trajectory_command__functions.c.o\x1b[0m\n'}
+[3.215141] (interbotix_xs_msgs) StdoutLine: {'line': b'[  6%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_xs_msgs/msg/detail/arm_joy__functions.c.o\x1b[0m\n'}
+[3.215226] (interbotix_xs_msgs) StdoutLine: {'line': b'[  6%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_xs_msgs/msg/detail/locobot_joy__functions.c.o\x1b[0m\n'}
+[3.215322] (interbotix_xs_msgs) StdoutLine: {'line': b'[  7%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_xs_msgs/msg/detail/turret_joy__functions.c.o\x1b[0m\n'}
+[3.215512] (interbotix_xs_msgs) StdoutLine: {'line': b'[  8%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_xs_msgs/srv/detail/operating_modes__functions.c.o\x1b[0m\n'}
+[3.216750] (interbotix_xs_msgs) StdoutLine: {'line': b'[  8%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_xs_msgs/srv/detail/motor_gains__functions.c.o\x1b[0m\n'}
+[3.216978] (interbotix_xs_msgs) StdoutLine: {'line': b'[  9%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_xs_msgs/srv/detail/reboot__functions.c.o\x1b[0m\n'}
+[3.217122] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 10%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_xs_msgs/srv/detail/register_values__functions.c.o\x1b[0m\n'}
+[3.217499] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 10%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_xs_msgs/srv/detail/robot_info__functions.c.o\x1b[0m\n'}
+[3.217627] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 11%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_xs_msgs/srv/detail/torque_enable__functions.c.o\x1b[0m\n'}
+[3.297575] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 12%] \x1b[32m\x1b[1mLinking C shared library libinterbotix_xs_msgs__rosidl_generator_c.so\x1b[0m\n'}
+[3.302236] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 12%] Built target interbotix_xs_msgs__cpp\n'}
+[3.303860] (-) TimerEvent: {}
+[3.310758] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 13%] \x1b[34m\x1b[1mGenerating C++ type support dispatch for ROS interfaces\x1b[0m\n'}
+[3.310876] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 14%] \x1b[34m\x1b[1mGenerating C++ type support for eProsima Fast-RTPS\x1b[0m\n'}
+[3.311234] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 14%] \x1b[34m\x1b[1mGenerating C++ introspection for ROS interfaces\x1b[0m\n'}
+[3.330761] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 14%] Built target interbotix_xs_msgs__rosidl_generator_c\n'}
+[3.339178] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 16%] \x1b[34m\x1b[1mGenerating C type support for eProsima Fast-RTPS\x1b[0m\n'}
+[3.339301] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 16%] \x1b[34m\x1b[1mGenerating C type support dispatch for ROS interfaces\x1b[0m\n'}
+[3.340138] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 17%] \x1b[34m\x1b[1mGenerating C introspection for ROS interfaces\x1b[0m\n'}
+[3.403950] (-) TimerEvent: {}
+[3.504212] (-) TimerEvent: {}
+[3.604466] (-) TimerEvent: {}
+[3.704707] (-) TimerEvent: {}
+[3.804925] (-) TimerEvent: {}
+[3.905147] (-) TimerEvent: {}
+[4.005353] (-) TimerEvent: {}
+[4.105562] (-) TimerEvent: {}
+[4.205796] (-) TimerEvent: {}
+[4.306006] (-) TimerEvent: {}
+[4.406220] (-) TimerEvent: {}
+[4.506429] (-) TimerEvent: {}
+[4.606641] (-) TimerEvent: {}
+[4.706898] (-) TimerEvent: {}
+[4.710975] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 17%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_xs_msgs/msg/arm_joy__type_support.cpp.o\x1b[0m\n'}
+[4.711447] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 18%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_xs_msgs/msg/locobot_joy__type_support.cpp.o\x1b[0m\n'}
+[4.711622] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 19%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_xs_msgs/msg/hex_joy__type_support.cpp.o\x1b[0m\n'}
+[4.711725] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 20%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_xs_msgs/msg/joint_temps__type_support.cpp.o\x1b[0m\n'}
+[4.711792] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 20%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_xs_msgs/msg/joint_group_command__type_support.cpp.o\x1b[0m\n'}
+[4.712411] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 21%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_xs_msgs/msg/turret_joy__type_support.cpp.o\x1b[0m\n'}
+[4.712553] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 24%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_xs_msgs/msg/joint_trajectory_command__type_support.cpp.o\x1b[0m\n'}
+[4.712631] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 24%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_xs_msgs/srv/reboot__type_support.cpp.o\x1b[0m\n'}
+[4.712825] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 24%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_xs_msgs/msg/joint_single_command__type_support.cpp.o\x1b[0m\n'}
+[4.712911] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 24%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_xs_msgs/srv/motor_gains__type_support.cpp.o\x1b[0m\n'}
+[4.712976] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 25%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_xs_msgs/srv/operating_modes__type_support.cpp.o\x1b[0m\n'}
+[4.713204] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 26%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_xs_msgs/srv/register_values__type_support.cpp.o\x1b[0m\n'}
+[4.713949] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 27%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_xs_msgs/srv/torque_enable__type_support.cpp.o\x1b[0m\n'}
+[4.714150] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 27%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_xs_msgs/srv/robot_info__type_support.cpp.o\x1b[0m\n'}
+[4.756405] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 28%] \x1b[32m\x1b[1mLinking CXX shared library libinterbotix_xs_msgs__rosidl_typesupport_c.so\x1b[0m\n'}
+[4.761699] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 29%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_xs_msgs/msg/joint_single_command__type_support.cpp.o\x1b[0m\n'}
+[4.761958] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 31%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_xs_msgs/msg/turret_joy__type_support.cpp.o\x1b[0m\n'}
+[4.762565] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 31%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_xs_msgs/msg/joint_temps__type_support.cpp.o\x1b[0m\n'}
+[4.762657] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 33%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_xs_msgs/msg/hex_joy__type_support.cpp.o\x1b[0m\n'}
+[4.762728] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 33%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_xs_msgs/msg/joint_group_command__type_support.cpp.o\x1b[0m\n'}
+[4.762796] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 33%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_xs_msgs/msg/arm_joy__type_support.cpp.o\x1b[0m\n'}
+[4.762863] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 33%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_xs_msgs/msg/joint_trajectory_command__type_support.cpp.o\x1b[0m\n'}
+[4.763304] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 35%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_xs_msgs/srv/motor_gains__type_support.cpp.o\x1b[0m\n'}
+[4.763410] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 35%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_xs_msgs/msg/locobot_joy__type_support.cpp.o\x1b[0m\n'}
+[4.763487] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 35%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_xs_msgs/srv/operating_modes__type_support.cpp.o\x1b[0m\n'}
+[4.763833] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 36%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_xs_msgs/srv/register_values__type_support.cpp.o\x1b[0m\n'}
+[4.764024] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 37%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_xs_msgs/srv/robot_info__type_support.cpp.o\x1b[0m\n'}
+[4.764140] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 38%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_xs_msgs/srv/reboot__type_support.cpp.o\x1b[0m\n'}
+[4.764867] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 38%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_xs_msgs/srv/torque_enable__type_support.cpp.o\x1b[0m\n'}
+[4.806996] (-) TimerEvent: {}
+[4.807727] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 38%] Built target interbotix_xs_msgs__rosidl_typesupport_c\n'}
+[4.903386] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 39%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/msg/detail/joint_single_command__type_support.cpp.o\x1b[0m\n'}
+[4.903697] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 40%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/msg/detail/joint_temps__type_support.cpp.o\x1b[0m\n'}
+[4.903833] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 41%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/msg/detail/arm_joy__type_support.cpp.o\x1b[0m\n'}
+[4.903936] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 41%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/msg/detail/hex_joy__type_support.cpp.o\x1b[0m\n'}
+[4.904024] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 44%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/msg/detail/locobot_joy__type_support.cpp.o\x1b[0m\n'}
+[4.904132] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 44%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/msg/detail/joint_group_command__type_support.cpp.o\x1b[0m\n'}
+[4.904224] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 44%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/msg/detail/joint_trajectory_command__type_support.cpp.o\x1b[0m\n'}
+[4.910113] (-) TimerEvent: {}
+[5.010472] (-) TimerEvent: {}
+[5.090300] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 44%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/msg/detail/turret_joy__type_support.cpp.o\x1b[0m\n'}
+[5.095841] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 45%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/srv/detail/motor_gains__type_support.cpp.o\x1b[0m\n'}
+[5.097824] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 46%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/srv/detail/operating_modes__type_support.cpp.o\x1b[0m\n'}
+[5.100972] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 47%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/srv/detail/reboot__type_support.cpp.o\x1b[0m\n'}
+[5.104332] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 47%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/srv/detail/register_values__type_support.cpp.o\x1b[0m\n'}
+[5.110588] (-) TimerEvent: {}
+[5.113275] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 48%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/srv/detail/robot_info__type_support.cpp.o\x1b[0m\n'}
+[5.125173] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 49%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/srv/detail/torque_enable__type_support.cpp.o\x1b[0m\n'}
+[5.125530] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 50%] \x1b[32m\x1b[1mLinking CXX shared library libinterbotix_xs_msgs__rosidl_typesupport_cpp.so\x1b[0m\n'}
+[5.178207] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 51%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_xs_msgs/msg/detail/arm_joy__type_support.c.o\x1b[0m\n'}
+[5.183166] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 52%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/msg/detail/arm_joy__type_support_c.cpp.o\x1b[0m\n'}
+[5.183436] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 53%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_xs_msgs/msg/detail/hex_joy__type_support.c.o\x1b[0m\n'}
+[5.184439] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 53%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/msg/detail/hex_joy__type_support_c.cpp.o\x1b[0m\n'}
+[5.189849] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 54%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/msg/detail/joint_group_command__type_support_c.cpp.o\x1b[0m\n'}
+[5.190385] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 55%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/msg/detail/joint_single_command__type_support_c.cpp.o\x1b[0m\n'}
+[5.190605] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 55%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_xs_msgs/msg/detail/joint_group_command__type_support.c.o\x1b[0m\n'}
+[5.193442] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 56%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/msg/detail/joint_temps__type_support_c.cpp.o\x1b[0m\n'}
+[5.197279] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 56%] Built target interbotix_xs_msgs__rosidl_typesupport_cpp\n'}
+[5.211590] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 56%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/msg/detail/joint_trajectory_command__type_support_c.cpp.o\x1b[0m\n'}
+[5.211884] (-) TimerEvent: {}
+[5.233153] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 57%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_xs_msgs/msg/detail/dds_fastrtps/arm_joy__type_support.cpp.o\x1b[0m\n'}
+[5.238957] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 58%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/msg/detail/locobot_joy__type_support_c.cpp.o\x1b[0m\n'}
+[5.242990] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 59%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_xs_msgs/msg/detail/dds_fastrtps/hex_joy__type_support.cpp.o\x1b[0m\n'}
+[5.251813] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 60%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_xs_msgs/msg/detail/joint_single_command__type_support.c.o\x1b[0m\n'}
+[5.302157] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 61%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_xs_msgs/msg/detail/joint_temps__type_support.c.o\x1b[0m\n'}
+[5.314168] (-) TimerEvent: {}
+[5.364271] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 62%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_xs_msgs/msg/detail/joint_trajectory_command__type_support.c.o\x1b[0m\n'}
+[5.387395] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 62%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_xs_msgs/msg/detail/locobot_joy__type_support.c.o\x1b[0m\n'}
+[5.389121] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 62%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_xs_msgs/msg/detail/dds_fastrtps/joint_group_command__type_support.cpp.o\x1b[0m\n'}
+[5.396858] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 63%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/msg/detail/turret_joy__type_support_c.cpp.o\x1b[0m\n'}
+[5.413373] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 64%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_xs_msgs/msg/detail/turret_joy__type_support.c.o\x1b[0m\n'}
+[5.416847] (-) TimerEvent: {}
+[5.429257] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 65%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_xs_msgs/srv/detail/motor_gains__type_support.c.o\x1b[0m\n'}
+[5.435207] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 66%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_xs_msgs/msg/detail/dds_fastrtps/joint_single_command__type_support.cpp.o\x1b[0m\n'}
+[5.436082] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 66%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_xs_msgs/srv/detail/operating_modes__type_support.c.o\x1b[0m\n'}
+[5.454466] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 67%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_xs_msgs/srv/detail/reboot__type_support.c.o\x1b[0m\n'}
+[5.465841] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 68%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_xs_msgs/srv/detail/register_values__type_support.c.o\x1b[0m\n'}
+[5.483153] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 69%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_xs_msgs/srv/detail/robot_info__type_support.c.o\x1b[0m\n'}
+[5.496039] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 69%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_xs_msgs/srv/detail/torque_enable__type_support.c.o\x1b[0m\n'}
+[5.507259] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 70%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/srv/detail/motor_gains__type_support_c.cpp.o\x1b[0m\n'}
+[5.507698] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 70%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/srv/detail/operating_modes__type_support_c.cpp.o\x1b[0m\n'}
+[5.516958] (-) TimerEvent: {}
+[5.541023] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 71%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/srv/detail/reboot__type_support_c.cpp.o\x1b[0m\n'}
+[5.558285] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 72%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_xs_msgs/msg/detail/dds_fastrtps/joint_temps__type_support.cpp.o\x1b[0m\n'}
+[5.571033] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 73%] \x1b[32m\x1b[1mLinking C shared library libinterbotix_xs_msgs__rosidl_typesupport_introspection_c.so\x1b[0m\n'}
+[5.575551] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 74%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_xs_msgs/msg/detail/dds_fastrtps/joint_trajectory_command__type_support.cpp.o\x1b[0m\n'}
+[5.586033] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 74%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_xs_msgs/msg/detail/dds_fastrtps/locobot_joy__type_support.cpp.o\x1b[0m\n'}
+[5.588654] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 75%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_xs_msgs/msg/detail/dds_fastrtps/turret_joy__type_support.cpp.o\x1b[0m\n'}
+[5.615465] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 76%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/srv/detail/register_values__type_support_c.cpp.o\x1b[0m\n'}
+[5.618092] (-) TimerEvent: {}
+[5.628529] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 77%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/srv/detail/robot_info__type_support_c.cpp.o\x1b[0m\n'}
+[5.636587] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 77%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/srv/detail/torque_enable__type_support_c.cpp.o\x1b[0m\n'}
+[5.637832] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 78%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_xs_msgs/srv/detail/dds_fastrtps/operating_modes__type_support.cpp.o\x1b[0m\n'}
+[5.638627] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 79%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_xs_msgs/srv/detail/dds_fastrtps/motor_gains__type_support.cpp.o\x1b[0m\n'}
+[5.642491] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 79%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_xs_msgs/srv/detail/dds_fastrtps/reboot__type_support.cpp.o\x1b[0m\n'}
+[5.642690] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 79%] Built target interbotix_xs_msgs__rosidl_typesupport_introspection_c\n'}
+[5.646075] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 80%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_xs_msgs/srv/detail/dds_fastrtps/register_values__type_support.cpp.o\x1b[0m\n'}
+[5.647191] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 81%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_xs_msgs/srv/detail/dds_fastrtps/robot_info__type_support.cpp.o\x1b[0m\n'}
+[5.654034] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 82%] \x1b[32mBuilding CXX object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_xs_msgs/srv/detail/dds_fastrtps/torque_enable__type_support.cpp.o\x1b[0m\n'}
+[5.703948] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 83%] \x1b[32m\x1b[1mLinking CXX shared library libinterbotix_xs_msgs__rosidl_typesupport_introspection_cpp.so\x1b[0m\n'}
+[5.720248] (-) TimerEvent: {}
+[5.820726] (-) TimerEvent: {}
+[5.892836] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 83%] Built target interbotix_xs_msgs__rosidl_typesupport_introspection_cpp\n'}
+[5.921639] (-) TimerEvent: {}
+[6.022344] (-) TimerEvent: {}
+[6.074646] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 84%] \x1b[32m\x1b[1mLinking CXX shared library libinterbotix_xs_msgs__rosidl_typesupport_fastrtps_c.so\x1b[0m\n'}
+[6.122433] (-) TimerEvent: {}
+[6.138949] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 84%] Built target interbotix_xs_msgs__rosidl_typesupport_fastrtps_c\n'}
+[6.203032] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 84%] \x1b[32m\x1b[1mLinking CXX shared library libinterbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.so\x1b[0m\n'}
+[6.222509] (-) TimerEvent: {}
+[6.269070] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 84%] Built target interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp\n'}
+[6.285345] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 84%] Built target interbotix_xs_msgs\n'}
+[6.302018] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 85%] \x1b[34m\x1b[1mGenerating Python code for ROS interfaces\x1b[0m\n'}
+[6.322570] (-) TimerEvent: {}
+[6.422757] (-) TimerEvent: {}
+[6.522953] (-) TimerEvent: {}
+[6.623132] (-) TimerEvent: {}
+[6.723279] (-) TimerEvent: {}
+[6.823497] (-) TimerEvent: {}
+[6.923660] (-) TimerEvent: {}
+[7.023816] (-) TimerEvent: {}
+[7.123975] (-) TimerEvent: {}
+[7.224163] (-) TimerEvent: {}
+[7.324377] (-) TimerEvent: {}
+[7.424553] (-) TimerEvent: {}
+[7.524712] (-) TimerEvent: {}
+[7.624866] (-) TimerEvent: {}
+[7.725017] (-) TimerEvent: {}
+[7.825170] (-) TimerEvent: {}
+[7.925318] (-) TimerEvent: {}
+[8.025474] (-) TimerEvent: {}
+[8.125639] (-) TimerEvent: {}
+[8.225799] (-) TimerEvent: {}
+[8.325954] (-) TimerEvent: {}
+[8.426111] (-) TimerEvent: {}
+[8.526274] (-) TimerEvent: {}
+[8.626435] (-) TimerEvent: {}
+[8.726592] (-) TimerEvent: {}
+[8.826747] (-) TimerEvent: {}
+[8.926906] (-) TimerEvent: {}
+[9.027076] (-) TimerEvent: {}
+[9.127239] (-) TimerEvent: {}
+[9.227421] (-) TimerEvent: {}
+[9.327637] (-) TimerEvent: {}
+[9.427822] (-) TimerEvent: {}
+[9.484892] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 85%] Built target interbotix_xs_msgs__py\n'}
+[9.501147] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 85%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_xs_msgs/msg/_hex_joy_s.c.o\x1b[0m\n'}
+[9.501464] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 87%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_xs_msgs/msg/_arm_joy_s.c.o\x1b[0m\n'}
+[9.501563] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 87%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_xs_msgs/msg/_joint_group_command_s.c.o\x1b[0m\n'}
+[9.501625] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 89%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_xs_msgs/msg/_joint_single_command_s.c.o\x1b[0m\n'}
+[9.501681] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 89%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_xs_msgs/msg/_joint_temps_s.c.o\x1b[0m\n'}
+[9.502039] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 89%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_xs_msgs/msg/_joint_trajectory_command_s.c.o\x1b[0m\n'}
+[9.502255] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 90%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_xs_msgs/msg/_locobot_joy_s.c.o\x1b[0m\n'}
+[9.502708] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 91%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_xs_msgs/srv/_reboot_s.c.o\x1b[0m\n'}
+[9.502891] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 91%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_xs_msgs/srv/_robot_info_s.c.o\x1b[0m\n'}
+[9.503531] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 93%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_xs_msgs/srv/_register_values_s.c.o\x1b[0m\n'}
+[9.503623] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 93%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_xs_msgs/msg/_turret_joy_s.c.o\x1b[0m\n'}
+[9.503957] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 94%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_xs_msgs/srv/_motor_gains_s.c.o\x1b[0m\n'}
+[9.504073] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 94%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_xs_msgs/srv/_operating_modes_s.c.o\x1b[0m\n'}
+[9.505080] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 95%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_xs_msgs/srv/_torque_enable_s.c.o\x1b[0m\n'}
+[9.527919] (-) TimerEvent: {}
+[9.628207] (-) TimerEvent: {}
+[9.648282] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 96%] \x1b[32m\x1b[1mLinking C shared library rosidl_generator_py/interbotix_xs_msgs/libinterbotix_xs_msgs__rosidl_generator_py.so\x1b[0m\n'}
+[9.684822] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 96%] Built target interbotix_xs_msgs__rosidl_generator_py\n'}
+[9.700465] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 97%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/interbotix_xs_msgs/_interbotix_xs_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o\x1b[0m\n'}
+[9.700807] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 98%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/interbotix_xs_msgs/_interbotix_xs_msgs_s.ep.rosidl_typesupport_c.c.o\x1b[0m\n'}
+[9.700977] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 99%] \x1b[32mBuilding C object CMakeFiles/interbotix_xs_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/interbotix_xs_msgs/_interbotix_xs_msgs_s.ep.rosidl_typesupport_introspection_c.c.o\x1b[0m\n'}
+[9.728270] (-) TimerEvent: {}
+[9.818018] (interbotix_xs_msgs) StdoutLine: {'line': b'[ 99%] \x1b[32m\x1b[1mLinking C shared library rosidl_generator_py/interbotix_xs_msgs/interbotix_xs_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so\x1b[0m\n'}
+[9.818212] (interbotix_xs_msgs) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking C shared library rosidl_generator_py/interbotix_xs_msgs/interbotix_xs_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so\x1b[0m\n'}
+[9.821067] (interbotix_xs_msgs) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking C shared library rosidl_generator_py/interbotix_xs_msgs/interbotix_xs_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so\x1b[0m\n'}
+[9.828352] (-) TimerEvent: {}
+[9.852843] (interbotix_xs_msgs) StdoutLine: {'line': b'[100%] Built target interbotix_xs_msgs__rosidl_typesupport_introspection_c__pyext\n'}
+[9.853299] (interbotix_xs_msgs) StdoutLine: {'line': b'[100%] Built target interbotix_xs_msgs__rosidl_typesupport_fastrtps_c__pyext\n'}
+[9.855720] (interbotix_xs_msgs) StdoutLine: {'line': b'[100%] Built target interbotix_xs_msgs__rosidl_typesupport_c__pyext\n'}
+[9.867498] (interbotix_xs_msgs) CommandEnded: {'returncode': 0}
+[9.868188] (interbotix_xs_msgs) JobProgress: {'identifier': 'interbotix_xs_msgs', 'progress': 'install'}
+[9.875354] (interbotix_xs_msgs) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs'], 'cwd': '/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('LANGUAGE', 'en_IN:en'), ('USER', 'yash_sai'), ('XDG_SESSION_TYPE', 'x11'), ('GIT_ASKPASS', '/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('SHLVL', '3'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/yash_sai'), ('CHROME_DESKTOP', 'code.desktop'), ('OLDPWD', '/home/yash_sai/Yash/Arm'), ('TERM_PROGRAM_VERSION', '1.105.1'), ('DESKTOP_SESSION', 'ubuntu'), ('OH_SDK_BASE', '/opt/OpenHaptics/Developer/3.4-0'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('XDG_SEAT_PATH', '/org/freedesktop/DisplayManager/Seat0'), ('VSCODE_GIT_ASKPASS_MAIN', '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('VSCODE_GIT_ASKPASS_NODE', '/usr/share/code/code'), ('DBUS_STARTER_BUS_TYPE', 'session'), ('SYSTEMD_EXEC_PID', '2510'), ('VSCODE_PYTHON_AUTOACTIVATE_GUARD', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1002/bus,guid=fd3b1d32d6cf086824bf75b0692e715d'), ('COLORTERM', 'truecolor'), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'yash_sai'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/humble/bin:/usr/bin:/home/yash_sai/Yash/Arm/arm-test/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/yash_sai/.config/Code/User/globalStorage/github.copilot-chat/debugCommand'), ('SESSION_MANAGER', 'local/control-PC:@/tmp/.ICE-unix/2510,unix/control-PC:/tmp/.ICE-unix/2510'), ('GDM_LANG', 'en_US'), ('XDG_SESSION_PATH', '/org/freedesktop/DisplayManager/Session0'), ('XDG_MENU_PREFIX', 'gnome-'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/adf100e1_1114_430f_ada4_c4a890531e46'), ('XDG_RUNTIME_DIR', '/run/user/1002'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':0'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('VIRTUAL_ENV_PROMPT', '(arm-test)'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/home/yash_sai/.Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1002/vscode-git-0edf85eefd.sock'), ('GNOME_TERMINAL_SERVICE', ':1.147'), ('TERM_PROGRAM', 'vscode'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1002/keyring/ssh'), ('XDG_GREETER_DATA_DIR', '/var/lib/lightdm-data/yash_sai'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('GPG_AGENT_INFO', '/run/user/1002/gnupg/S.gpg-agent:0:1'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('GIT_PAGER', 'cat'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/yash_sai/Yash/Arm/InterbotixDriver/build/interbotix_xs_msgs'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('DBUS_STARTER_ADDRESS', 'unix:path=/run/user/1002/bus,guid=fd3b1d32d6cf086824bf75b0692e715d'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[9.882134] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[9.882791] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Execute custom install script\n'}
+[9.883054] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/ament_index/resource_index/rosidl_interfaces/interbotix_xs_msgs\n'}
+[9.891070] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/arm_joy.h\n'}
+[9.897750] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/arm_joy__functions.h\n'}
+[9.904067] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/arm_joy__struct.h\n'}
+[9.910956] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/arm_joy__type_support.h\n'}
+[9.917365] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/hex_joy__functions.h\n'}
+[9.923690] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/hex_joy__struct.h\n'}
+[9.928413] (-) TimerEvent: {}
+[9.929847] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/hex_joy__type_support.h\n'}
+[9.937281] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_group_command__functions.h\n'}
+[9.944053] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_group_command__struct.h\n'}
+[9.951457] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_group_command__type_support.h\n'}
+[9.957855] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_single_command__functions.h\n'}
+[9.964001] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_single_command__struct.h\n'}
+[9.970140] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_single_command__type_support.h\n'}
+[9.977067] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_temps__functions.h\n'}
+[9.983598] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_temps__struct.h\n'}
+[9.990087] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_temps__type_support.h\n'}
+[9.996696] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_trajectory_command__functions.h\n'}
+[10.002978] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_trajectory_command__struct.h\n'}
+[10.009584] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_trajectory_command__type_support.h\n'}
+[10.016128] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/locobot_joy__functions.h\n'}
+[10.022549] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/locobot_joy__struct.h\n'}
+[10.028480] (-) TimerEvent: {}
+[10.028903] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/locobot_joy__type_support.h\n'}
+[10.035371] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/turret_joy__functions.h\n'}
+[10.042072] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/turret_joy__struct.h\n'}
+[10.048600] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/turret_joy__type_support.h\n'}
+[10.055116] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/hex_joy.h\n'}
+[10.061485] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/joint_group_command.h\n'}
+[10.068121] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/joint_single_command.h\n'}
+[10.074609] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/joint_temps.h\n'}
+[10.080924] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/joint_trajectory_command.h\n'}
+[10.087010] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/locobot_joy.h\n'}
+[10.093719] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/rosidl_generator_c__visibility_control.h\n'}
+[10.100233] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/turret_joy.h\n'}
+[10.106942] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/motor_gains__functions.h\n'}
+[10.113386] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/motor_gains__struct.h\n'}
+[10.119786] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/motor_gains__type_support.h\n'}
+[10.126341] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/operating_modes__functions.h\n'}
+[10.128545] (-) TimerEvent: {}
+[10.132740] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/operating_modes__struct.h\n'}
+[10.139219] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/operating_modes__type_support.h\n'}
+[10.145738] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/reboot__functions.h\n'}
+[10.152331] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/reboot__struct.h\n'}
+[10.158738] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/reboot__type_support.h\n'}
+[10.165051] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/register_values__functions.h\n'}
+[10.171668] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/register_values__struct.h\n'}
+[10.178277] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/register_values__type_support.h\n'}
+[10.184713] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/robot_info__functions.h\n'}
+[10.191058] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/robot_info__struct.h\n'}
+[10.197561] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/robot_info__type_support.h\n'}
+[10.203729] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/torque_enable__functions.h\n'}
+[10.210331] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/torque_enable__struct.h\n'}
+[10.216744] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/torque_enable__type_support.h\n'}
+[10.223136] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/motor_gains.h\n'}
+[10.228615] (-) TimerEvent: {}
+[10.229592] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/operating_modes.h\n'}
+[10.236061] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/reboot.h\n'}
+[10.242450] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/register_values.h\n'}
+[10.248849] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/robot_info.h\n'}
+[10.255232] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/torque_enable.h\n'}
+[10.261723] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/environment/library_path.sh\n'}
+[10.268412] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/environment/library_path.dsv\n'}
+[10.275557] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/arm_joy__rosidl_typesupport_fastrtps_c.h\n'}
+[10.281972] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/hex_joy__rosidl_typesupport_fastrtps_c.h\n'}
+[10.288438] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_group_command__rosidl_typesupport_fastrtps_c.h\n'}
+[10.294833] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_single_command__rosidl_typesupport_fastrtps_c.h\n'}
+[10.301118] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_temps__rosidl_typesupport_fastrtps_c.h\n'}
+[10.307506] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_trajectory_command__rosidl_typesupport_fastrtps_c.h\n'}
+[10.313890] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/locobot_joy__rosidl_typesupport_fastrtps_c.h\n'}
+[10.320315] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/turret_joy__rosidl_typesupport_fastrtps_c.h\n'}
+[10.326876] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h\n'}
+[10.328677] (-) TimerEvent: {}
+[10.333426] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/motor_gains__rosidl_typesupport_fastrtps_c.h\n'}
+[10.339888] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/operating_modes__rosidl_typesupport_fastrtps_c.h\n'}
+[10.346266] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/reboot__rosidl_typesupport_fastrtps_c.h\n'}
+[10.352664] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/register_values__rosidl_typesupport_fastrtps_c.h\n'}
+[10.359167] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/robot_info__rosidl_typesupport_fastrtps_c.h\n'}
+[10.365327] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/torque_enable__rosidl_typesupport_fastrtps_c.h\n'}
+[10.372318] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/arm_joy__rosidl_typesupport_introspection_c.h\n'}
+[10.378922] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/hex_joy__rosidl_typesupport_introspection_c.h\n'}
+[10.385331] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_group_command__rosidl_typesupport_introspection_c.h\n'}
+[10.391929] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_single_command__rosidl_typesupport_introspection_c.h\n'}
+[10.398357] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_temps__rosidl_typesupport_introspection_c.h\n'}
+[10.404725] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_trajectory_command__rosidl_typesupport_introspection_c.h\n'}
+[10.411338] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/locobot_joy__rosidl_typesupport_introspection_c.h\n'}
+[10.417950] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/turret_joy__rosidl_typesupport_introspection_c.h\n'}
+[10.424547] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h\n'}
+[10.428743] (-) TimerEvent: {}
+[10.430964] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/motor_gains__rosidl_typesupport_introspection_c.h\n'}
+[10.437390] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/operating_modes__rosidl_typesupport_introspection_c.h\n'}
+[10.444214] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/reboot__rosidl_typesupport_introspection_c.h\n'}
+[10.450769] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/register_values__rosidl_typesupport_introspection_c.h\n'}
+[10.457214] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/robot_info__rosidl_typesupport_introspection_c.h\n'}
+[10.463415] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/torque_enable__rosidl_typesupport_introspection_c.h\n'}
+[10.470436] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/arm_joy.hpp\n'}
+[10.476874] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/arm_joy__builder.hpp\n'}
+[10.483055] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/arm_joy__struct.hpp\n'}
+[10.489248] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/arm_joy__traits.hpp\n'}
+[10.496614] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/arm_joy__type_support.hpp\n'}
+[10.503576] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/hex_joy__builder.hpp\n'}
+[10.510347] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/hex_joy__struct.hpp\n'}
+[10.517011] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/hex_joy__traits.hpp\n'}
+[10.523593] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/hex_joy__type_support.hpp\n'}
+[10.528813] (-) TimerEvent: {}
+[10.530375] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_group_command__builder.hpp\n'}
+[10.536916] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_group_command__struct.hpp\n'}
+[10.543573] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_group_command__traits.hpp\n'}
+[10.550278] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_group_command__type_support.hpp\n'}
+[10.556729] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_single_command__builder.hpp\n'}
+[10.563024] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_single_command__struct.hpp\n'}
+[10.569926] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_single_command__traits.hpp\n'}
+[10.576541] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_single_command__type_support.hpp\n'}
+[10.583136] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_temps__builder.hpp\n'}
+[10.589639] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_temps__struct.hpp\n'}
+[10.596183] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_temps__traits.hpp\n'}
+[10.602749] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_temps__type_support.hpp\n'}
+[10.609443] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_trajectory_command__builder.hpp\n'}
+[10.615979] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_trajectory_command__struct.hpp\n'}
+[10.622432] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_trajectory_command__traits.hpp\n'}
+[10.628876] (-) TimerEvent: {}
+[10.629068] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_trajectory_command__type_support.hpp\n'}
+[10.635589] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/locobot_joy__builder.hpp\n'}
+[10.642220] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/locobot_joy__struct.hpp\n'}
+[10.648643] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/locobot_joy__traits.hpp\n'}
+[10.655129] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/locobot_joy__type_support.hpp\n'}
+[10.661427] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/turret_joy__builder.hpp\n'}
+[10.668498] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/turret_joy__struct.hpp\n'}
+[10.675192] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/turret_joy__traits.hpp\n'}
+[10.681596] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/turret_joy__type_support.hpp\n'}
+[10.688270] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/hex_joy.hpp\n'}
+[10.694917] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/joint_group_command.hpp\n'}
+[10.701525] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/joint_single_command.hpp\n'}
+[10.708214] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/joint_temps.hpp\n'}
+[10.714824] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/joint_trajectory_command.hpp\n'}
+[10.721315] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/locobot_joy.hpp\n'}
+[10.728057] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/rosidl_generator_cpp__visibility_control.hpp\n'}
+[10.728940] (-) TimerEvent: {}
+[10.734547] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/turret_joy.hpp\n'}
+[10.741057] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/motor_gains__builder.hpp\n'}
+[10.747500] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/motor_gains__struct.hpp\n'}
+[10.753716] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/motor_gains__traits.hpp\n'}
+[10.760047] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/motor_gains__type_support.hpp\n'}
+[10.766902] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/operating_modes__builder.hpp\n'}
+[10.773548] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/operating_modes__struct.hpp\n'}
+[10.780192] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/operating_modes__traits.hpp\n'}
+[10.786671] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/operating_modes__type_support.hpp\n'}
+[10.793456] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/reboot__builder.hpp\n'}
+[10.800033] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/reboot__struct.hpp\n'}
+[10.806551] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/reboot__traits.hpp\n'}
+[10.813189] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/reboot__type_support.hpp\n'}
+[10.819679] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/register_values__builder.hpp\n'}
+[10.826385] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/register_values__struct.hpp\n'}
+[10.829004] (-) TimerEvent: {}
+[10.832990] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/register_values__traits.hpp\n'}
+[10.839651] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/register_values__type_support.hpp\n'}
+[10.846395] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/robot_info__builder.hpp\n'}
+[10.852982] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/robot_info__struct.hpp\n'}
+[10.859330] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/robot_info__traits.hpp\n'}
+[10.865634] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/robot_info__type_support.hpp\n'}
+[10.872369] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/torque_enable__builder.hpp\n'}
+[10.879038] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/torque_enable__struct.hpp\n'}
+[10.885523] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/torque_enable__traits.hpp\n'}
+[10.892017] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/torque_enable__type_support.hpp\n'}
+[10.898411] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/motor_gains.hpp\n'}
+[10.904910] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/operating_modes.hpp\n'}
+[10.911388] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/reboot.hpp\n'}
+[10.917805] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/register_values.hpp\n'}
+[10.924278] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/robot_info.hpp\n'}
+[10.929069] (-) TimerEvent: {}
+[10.930709] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/torque_enable.hpp\n'}
+[10.937847] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/arm_joy__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[10.944426] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/hex_joy__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[10.951345] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_group_command__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[10.957831] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_single_command__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[10.964002] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_temps__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[10.970212] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_trajectory_command__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[10.977005] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/locobot_joy__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[10.983530] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/turret_joy__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[10.990068] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h\n'}
+[10.996545] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/motor_gains__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[11.002987] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/operating_modes__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[11.009662] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/reboot__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[11.016168] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/register_values__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[11.022797] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/robot_info__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[11.029139] (-) TimerEvent: {}
+[11.029774] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/torque_enable__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[11.036664] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/arm_joy__rosidl_typesupport_introspection_cpp.hpp\n'}
+[11.043357] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/hex_joy__rosidl_typesupport_introspection_cpp.hpp\n'}
+[11.050188] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_group_command__rosidl_typesupport_introspection_cpp.hpp\n'}
+[11.056640] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_single_command__rosidl_typesupport_introspection_cpp.hpp\n'}
+[11.063011] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_temps__rosidl_typesupport_introspection_cpp.hpp\n'}
+[11.069300] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/joint_trajectory_command__rosidl_typesupport_introspection_cpp.hpp\n'}
+[11.076376] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/locobot_joy__rosidl_typesupport_introspection_cpp.hpp\n'}
+[11.083165] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/msg/detail/turret_joy__rosidl_typesupport_introspection_cpp.hpp\n'}
+[11.089934] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/motor_gains__rosidl_typesupport_introspection_cpp.hpp\n'}
+[11.096762] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/operating_modes__rosidl_typesupport_introspection_cpp.hpp\n'}
+[11.103269] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/reboot__rosidl_typesupport_introspection_cpp.hpp\n'}
+[11.110082] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/register_values__rosidl_typesupport_introspection_cpp.hpp\n'}
+[11.116714] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/robot_info__rosidl_typesupport_introspection_cpp.hpp\n'}
+[11.123130] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/include/interbotix_xs_msgs/interbotix_xs_msgs/srv/detail/torque_enable__rosidl_typesupport_introspection_cpp.hpp\n'}
+[11.129203] (-) TimerEvent: {}
+[11.129930] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/environment/pythonpath.sh\n'}
+[11.136339] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/environment/pythonpath.dsv\n'}
+[11.143302] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs-0.0.0-py3.10.egg-info/PKG-INFO\n'}
+[11.149836] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs-0.0.0-py3.10.egg-info/SOURCES.txt\n'}
+[11.156233] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs-0.0.0-py3.10.egg-info/dependency_links.txt\n'}
+[11.162550] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs-0.0.0-py3.10.egg-info/top_level.txt\n'}
+[11.170040] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/__init__.py\n'}
+[11.176608] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/_interbotix_xs_msgs_s.ep.rosidl_typesupport_c.c\n'}
+[11.183069] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/_interbotix_xs_msgs_s.ep.rosidl_typesupport_fastrtps_c.c\n'}
+[11.189418] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/_interbotix_xs_msgs_s.ep.rosidl_typesupport_introspection_c.c\n'}
+[11.196219] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/interbotix_xs_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so\n'}
+[11.202972] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/interbotix_xs_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so\n'}
+[11.209605] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/interbotix_xs_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so\n'}
+[11.216178] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/libinterbotix_xs_msgs__rosidl_generator_py.so\n'}
+[11.222758] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/__init__.py\n'}
+[11.229245] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_arm_joy.py\n'}
+[11.229335] (-) TimerEvent: {}
+[11.235925] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_arm_joy_s.c\n'}
+[11.242634] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_hex_joy.py\n'}
+[11.249212] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_hex_joy_s.c\n'}
+[11.256422] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_joint_group_command.py\n'}
+[11.263263] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_joint_group_command_s.c\n'}
+[11.269979] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_joint_single_command.py\n'}
+[11.276506] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_joint_single_command_s.c\n'}
+[11.283272] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_joint_temps.py\n'}
+[11.289709] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_joint_temps_s.c\n'}
+[11.297168] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_joint_trajectory_command.py\n'}
+[11.303819] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_joint_trajectory_command_s.c\n'}
+[11.310398] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_locobot_joy.py\n'}
+[11.316977] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_locobot_joy_s.c\n'}
+[11.323522] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_turret_joy.py\n'}
+[11.329400] (-) TimerEvent: {}
+[11.330193] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_turret_joy_s.c\n'}
+[11.336827] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/__init__.py\n'}
+[11.343479] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_motor_gains.py\n'}
+[11.350281] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_motor_gains_s.c\n'}
+[11.356838] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_operating_modes.py\n'}
+[11.363446] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_operating_modes_s.c\n'}
+[11.369946] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_reboot.py\n'}
+[11.376698] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_reboot_s.c\n'}
+[11.383386] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_register_values.py\n'}
+[11.389891] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_register_values_s.c\n'}
+[11.396363] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_robot_info.py\n'}
+[11.403160] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_robot_info_s.c\n'}
+[11.409958] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_torque_enable.py\n'}
+[11.416350] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_torque_enable_s.c\n'}
+[11.423163] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/interbotix_xs_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so\n'}
+[11.423374] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/interbotix_xs_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so\n'}
+[11.423611] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/interbotix_xs_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so\n'}
+[11.423834] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/ArmJoy.idl\n'}
+[11.429465] (-) TimerEvent: {}
+[11.430308] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/HexJoy.idl\n'}
+[11.436943] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/JointGroupCommand.idl\n'}
+[11.443664] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/JointSingleCommand.idl\n'}
+[11.450297] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/JointTemps.idl\n'}
+[11.456898] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/JointTrajectoryCommand.idl\n'}
+[11.463151] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/LocobotJoy.idl\n'}
+[11.469408] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/TurretJoy.idl\n'}
+[11.476286] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/MotorGains.idl\n'}
+[11.482649] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/OperatingModes.idl\n'}
+[11.489327] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/Reboot.idl\n'}
+[11.496378] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/RegisterValues.idl\n'}
+[11.503273] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/RobotInfo.idl\n'}
+[11.510012] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/TorqueEnable.idl\n'}
+[11.516539] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/ArmJoy.msg\n'}
+[11.523022] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/HexJoy.msg\n'}
+[11.529540] (-) TimerEvent: {}
+[11.529634] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/JointGroupCommand.msg\n'}
+[11.536091] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/JointSingleCommand.msg\n'}
+[11.542707] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/JointTemps.msg\n'}
+[11.549450] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/JointTrajectoryCommand.msg\n'}
+[11.555846] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/LocobotJoy.msg\n'}
+[11.563057] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/msg/TurretJoy.msg\n'}
+[11.569555] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/MotorGains.srv\n'}
+[11.576418] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/MotorGains_Request.msg\n'}
+[11.583027] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/MotorGains_Response.msg\n'}
+[11.589547] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/OperatingModes.srv\n'}
+[11.596373] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/OperatingModes_Request.msg\n'}
+[11.602969] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/OperatingModes_Response.msg\n'}
+[11.609627] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/Reboot.srv\n'}
+[11.616077] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/Reboot_Request.msg\n'}
+[11.622707] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/Reboot_Response.msg\n'}
+[11.629606] (-) TimerEvent: {}
+[11.629734] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/RegisterValues.srv\n'}
+[11.636257] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/RegisterValues_Request.msg\n'}
+[11.642995] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/RegisterValues_Response.msg\n'}
+[11.649720] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/RobotInfo.srv\n'}
+[11.656179] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/RobotInfo_Request.msg\n'}
+[11.662740] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/RobotInfo_Response.msg\n'}
+[11.669402] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/TorqueEnable.srv\n'}
+[11.676067] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/TorqueEnable_Request.msg\n'}
+[11.682858] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/srv/TorqueEnable_Response.msg\n'}
+[11.689491] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/ament_index/resource_index/package_run_dependencies/interbotix_xs_msgs\n'}
+[11.696202] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/ament_index/resource_index/parent_prefix_path/interbotix_xs_msgs\n'}
+[11.702911] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/environment/ament_prefix_path.sh\n'}
+[11.709415] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/environment/ament_prefix_path.dsv\n'}
+[11.716002] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/environment/path.sh\n'}
+[11.722683] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/environment/path.dsv\n'}
+[11.729172] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/local_setup.bash\n'}
+[11.729668] (-) TimerEvent: {}
+[11.735923] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/local_setup.sh\n'}
+[11.742570] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/local_setup.zsh\n'}
+[11.749123] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/local_setup.dsv\n'}
+[11.755492] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/package.dsv\n'}
+[11.761932] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/ament_index/resource_index/packages/interbotix_xs_msgs\n'}
+[11.768905] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/rosidl_cmake-extras.cmake\n'}
+[11.775675] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/ament_cmake_export_dependencies-extras.cmake\n'}
+[11.782543] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/ament_cmake_export_include_directories-extras.cmake\n'}
+[11.789146] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/ament_cmake_export_libraries-extras.cmake\n'}
+[11.795630] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/ament_cmake_export_targets-extras.cmake\n'}
+[11.802485] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake\n'}
+[11.809056] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake\n'}
+[11.815667] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/interbotix_xs_msgsConfig.cmake\n'}
+[11.822166] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/interbotix_xs_msgsConfig-version.cmake\n'}
+[11.828601] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Symlinking: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/package.xml\n'}
+[11.829731] (-) TimerEvent: {}
+[11.835169] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_generator_c.so\n'}
+[11.835680] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Set runtime path of "/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_generator_c.so" to ""\n'}
+[11.835739] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_typesupport_fastrtps_c.so\n'}
+[11.836234] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Set runtime path of "/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_typesupport_fastrtps_c.so" to ""\n'}
+[11.836298] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_typesupport_introspection_c.so\n'}
+[11.836745] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Set runtime path of "/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_typesupport_introspection_c.so" to ""\n'}
+[11.836805] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_typesupport_c.so\n'}
+[11.837162] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Set runtime path of "/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_typesupport_c.so" to ""\n'}
+[11.837224] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.so\n'}
+[11.837799] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Set runtime path of "/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""\n'}
+[11.837864] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_typesupport_introspection_cpp.so\n'}
+[11.838455] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Set runtime path of "/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_typesupport_introspection_cpp.so" to ""\n'}
+[11.838525] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_typesupport_cpp.so\n'}
+[11.838882] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Set runtime path of "/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_typesupport_cpp.so" to ""\n'}
+[11.880419] (interbotix_xs_msgs) StdoutLine: {'line': b"Listing '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs'...\n"}
+[11.880521] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/__init__.py'...\n"}
+[11.880566] (interbotix_xs_msgs) StdoutLine: {'line': b"Listing '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg'...\n"}
+[11.880605] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/__init__.py'...\n"}
+[11.880643] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_arm_joy.py'...\n"}
+[11.880679] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_hex_joy.py'...\n"}
+[11.880715] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_joint_group_command.py'...\n"}
+[11.880751] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_joint_single_command.py'...\n"}
+[11.880794] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_joint_temps.py'...\n"}
+[11.880833] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_joint_trajectory_command.py'...\n"}
+[11.880870] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_locobot_joy.py'...\n"}
+[11.880905] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/msg/_turret_joy.py'...\n"}
+[11.880942] (interbotix_xs_msgs) StdoutLine: {'line': b"Listing '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv'...\n"}
+[11.880977] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/__init__.py'...\n"}
+[11.881012] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_motor_gains.py'...\n"}
+[11.881064] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_operating_modes.py'...\n"}
+[11.881111] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_reboot.py'...\n"}
+[11.881149] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_register_values.py'...\n"}
+[11.881186] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_robot_info.py'...\n"}
+[11.881221] (interbotix_xs_msgs) StdoutLine: {'line': b"Compiling '/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages/interbotix_xs_msgs/srv/_torque_enable.py'...\n"}
+[11.883507] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_generator_py.so\n'}
+[11.884015] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Set runtime path of "/home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/lib/libinterbotix_xs_msgs__rosidl_generator_py.so" to ""\n'}
+[11.884086] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/export_interbotix_xs_msgs__rosidl_generator_cExport.cmake\n'}
+[11.884234] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/export_interbotix_xs_msgs__rosidl_generator_cExport-noconfig.cmake\n'}
+[11.884382] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/export_interbotix_xs_msgs__rosidl_typesupport_fastrtps_cExport.cmake\n'}
+[11.884522] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/export_interbotix_xs_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake\n'}
+[11.884663] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/interbotix_xs_msgs__rosidl_typesupport_introspection_cExport.cmake\n'}
+[11.884799] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/interbotix_xs_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake\n'}
+[11.884938] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/interbotix_xs_msgs__rosidl_typesupport_cExport.cmake\n'}
+[11.885081] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/interbotix_xs_msgs__rosidl_typesupport_cExport-noconfig.cmake\n'}
+[11.885231] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/export_interbotix_xs_msgs__rosidl_generator_cppExport.cmake\n'}
+[11.885373] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/export_interbotix_xs_msgs__rosidl_typesupport_fastrtps_cppExport.cmake\n'}
+[11.885509] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/export_interbotix_xs_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake\n'}
+[11.885654] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/interbotix_xs_msgs__rosidl_typesupport_introspection_cppExport.cmake\n'}
+[11.885786] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/interbotix_xs_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake\n'}
+[11.885927] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/interbotix_xs_msgs__rosidl_typesupport_cppExport.cmake\n'}
+[11.886076] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/interbotix_xs_msgs__rosidl_typesupport_cppExport-noconfig.cmake\n'}
+[11.886227] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/export_interbotix_xs_msgs__rosidl_generator_pyExport.cmake\n'}
+[11.886361] (interbotix_xs_msgs) StdoutLine: {'line': b'-- Installing: /home/yash_sai/Yash/Arm/InterbotixDriver/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/export_interbotix_xs_msgs__rosidl_generator_pyExport-noconfig.cmake\n'}
+[11.888393] (interbotix_xs_msgs) CommandEnded: {'returncode': 0}
+[11.905608] (interbotix_xs_msgs) JobEnded: {'identifier': 'interbotix_xs_msgs', 'rc': 0}
+[11.906067] (-) EventReactorShutdown: {}

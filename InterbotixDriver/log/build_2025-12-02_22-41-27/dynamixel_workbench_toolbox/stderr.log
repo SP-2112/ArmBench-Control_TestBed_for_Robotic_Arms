@@ -1,0 +1,8 @@
+/home/yash_sai/Yash/Arm/InterbotixDriver/src/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_driver.cpp: In member function ‘bool DynamixelDriver::readRegister(uint8_t, uint16_t, uint16_t, uint32_t*, const char**)’:
+/home/yash_sai/Yash/Arm/InterbotixDriver/src/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_driver.cpp:776:11: warning: ISO C++ forbids variable length array ‘data_read’ [-Wvla]
+  776 |   uint8_t data_read[length];
+      |           ^~~~~~~~~
+/home/yash_sai/Yash/Arm/InterbotixDriver/src/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_driver.cpp: In member function ‘bool DynamixelDriver::syncWrite(uint8_t, uint8_t*, uint8_t, int32_t*, uint8_t, const char**)’:
+/home/yash_sai/Yash/Arm/InterbotixDriver/src/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_driver.cpp:1012:11: warning: ISO C++ forbids variable length array ‘multi_parameter’ [-Wvla]
+ 1012 |   uint8_t multi_parameter[4*data_num_for_each_id];
+      |           ^~~~~~~~~~~~~~~

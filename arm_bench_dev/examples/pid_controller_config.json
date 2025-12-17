@@ -1,0 +1,14 @@
+{
+  "algorithm_name": "Example PID Controller",
+  "control_code": "# PID Controller with Anti-Windup\n\n# Initialize integral if needed\nif not hasattr(state, 'integral'):\n    integral = 0.0\nelse:\n    integral = getattr(state, 'integral', 0.0)\n\n# Calculate error\nerror = reference - state[0]\nerror_dot = -state[1]\n\n# Update integral\nintegral += error * dt\n\n# Anti-windup: limit integral\nintegral = np.clip(integral, -50.0, 50.0)\n\n# PID control law\ncontrol_output = Kp * error + Ki * integral + Kd * error_dot\n\n# Saturation\ncontrol_output = np.clip(control_output, -10.0, 10.0)\n\n# Save integral for next iteration (pseudo-code)\n# state.integral = integral\n",
+  "parameters": {
+    "Kp": 20.0,
+    "Ki": 5.0,
+    "Kd": 3.0
+  },
+  "parameter_bounds": {
+    "Kp": [0.1, 100.0],
+    "Ki": [0.01, 20.0],
+    "Kd": [0.01, 10.0]
+  }
+}

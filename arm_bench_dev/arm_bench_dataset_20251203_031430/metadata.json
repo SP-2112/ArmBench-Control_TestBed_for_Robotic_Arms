@@ -1,0 +1,29 @@
+{
+  "start_time": 1764711870.501751,
+  "end_time": 1764711886.6303446,
+  "duration": 16.128593683242798,
+  "num_frames": 119,
+  "frames_with_camera_data": 119,
+  "mode": "bimanual_sim",
+  "num_motors": 9,
+  "num_cameras": 2,
+  "motor_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "camera_ids": [
+    1,
+    4
+  ],
+  "recording_cameras": [
+    1,
+    4
+  ]
+}

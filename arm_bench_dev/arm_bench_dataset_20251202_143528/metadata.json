@@ -1,0 +1,24 @@
+{
+  "start_time": 1764666328.0441055,
+  "end_time": 1764666341.3801026,
+  "duration": 13.335997104644775,
+  "num_frames": 134,
+  "mode": "simulation",
+  "num_motors": 9,
+  "num_cameras": 2,
+  "motor_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "camera_ids": [
+    0,
+    3
+  ]
+}

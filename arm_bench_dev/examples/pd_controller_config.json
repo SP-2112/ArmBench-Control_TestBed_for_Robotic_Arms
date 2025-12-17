@@ -1,0 +1,12 @@
+{
+  "algorithm_name": "Example PD Controller",
+  "control_code": "# PD Controller for Position Control\n\n# Calculate error\nerror = reference - state[0]\nerror_dot = -state[1]\n\n# PD control law\ncontrol_output = Kp * error + Kd * error_dot\n\n# Add saturation\nmax_control = 10.0\ncontrol_output = np.clip(control_output, -max_control, max_control)\n",
+  "parameters": {
+    "Kp": 15.0,
+    "Kd": 2.5
+  },
+  "parameter_bounds": {
+    "Kp": [0.1, 100.0],
+    "Kd": [0.01, 10.0]
+  }
+}

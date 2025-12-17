@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: bilateral-teleop
+Version: 0.0.0
+Summary: Bilateral teleoperation between ReactorX-150 and ViperX-300s using MoveIt2
+Home-page: UNKNOWN
+Maintainer: sp
+Maintainer-email: sp@todo.todo
+License: MIT
+Platform: UNKNOWN
+Provides-Extra: test
+
+UNKNOWN
+

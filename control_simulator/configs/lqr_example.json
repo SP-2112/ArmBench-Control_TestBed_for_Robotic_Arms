@@ -1,0 +1,19 @@
+{
+  "description": "Optimal LQR controller for balanced performance",
+  "algorithm": "LQR",
+  "parameters": {
+    "Q_pos": 50.0,
+    "Q_vel": 5.0,
+    "R": 0.5
+  },
+  "simulation_settings": {
+    "sim_time": 10.0,
+    "reference_signal": "step",
+    "reference_amplitude": 1.0
+  },
+  "expected_metrics": {
+    "overshoot_percent": "minimal",
+    "settling_time": "<2s",
+    "control_effort": "low"
+  }
+}

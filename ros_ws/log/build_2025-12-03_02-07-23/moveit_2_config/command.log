@@ -1,0 +1,6 @@
+Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/moveit_2_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yash_sai/Yash/Arm/ros_ws/src/moveit_2_config -DCMAKE_INSTALL_PREFIX=/home/yash_sai/Yash/Arm/ros_ws/install/moveit_2_config
+Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/moveit_2_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yash_sai/Yash/Arm/ros_ws/src/moveit_2_config -DCMAKE_INSTALL_PREFIX=/home/yash_sai/Yash/Arm/ros_ws/install/moveit_2_config
+Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/moveit_2_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yash_sai/Yash/Arm/ros_ws/build/moveit_2_config -- -j24 -l24
+Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/moveit_2_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yash_sai/Yash/Arm/ros_ws/build/moveit_2_config -- -j24 -l24
+Invoking command in '/home/yash_sai/Yash/Arm/ros_ws/build/moveit_2_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yash_sai/Yash/Arm/ros_ws/build/moveit_2_config
+Invoked command in '/home/yash_sai/Yash/Arm/ros_ws/build/moveit_2_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yash_sai/Yash/Arm/ros_ws/build/moveit_2_config

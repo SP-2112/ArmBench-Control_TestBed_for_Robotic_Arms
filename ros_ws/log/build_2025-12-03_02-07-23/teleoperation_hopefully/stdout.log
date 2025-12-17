@@ -1,0 +1,50 @@
+running egg_info
+creating ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info
+writing ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/PKG-INFO
+writing dependency_links to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/dependency_links.txt
+writing entry points to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/entry_points.txt
+writing requirements to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/requires.txt
+writing top-level names to ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/top_level.txt
+writing manifest file '../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/SOURCES.txt'
+reading manifest file '../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/SOURCES.txt'
+writing manifest file '../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build
+creating /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib
+creating /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully
+copying teleoperation_hopefully/move_it_2_ik.py -> /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully
+copying teleoperation_hopefully/diff_ik.py -> /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully
+copying teleoperation_hopefully/__init__.py -> /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully
+copying teleoperation_hopefully/fk.py -> /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully
+copying teleoperation_hopefully/ik.py -> /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully
+copying teleoperation_hopefully/modern_robotics.py -> /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully
+running install
+running install_lib
+creating /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully
+copying /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully/move_it_2_ik.py -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully
+copying /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully/diff_ik.py -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully
+copying /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully/__init__.py -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully
+copying /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully/fk.py -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully
+copying /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully/ik.py -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully
+copying /home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/build/lib/teleoperation_hopefully/modern_robotics.py -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully
+byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully/move_it_2_ik.py to move_it_2_ik.cpython-310.pyc
+byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully/diff_ik.py to diff_ik.cpython-310.pyc
+byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully/fk.py to fk.cpython-310.pyc
+byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully/ik.py to ik.cpython-310.pyc
+byte-compiling /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully/modern_robotics.py to modern_robotics.cpython-310.pyc
+running install_data
+creating /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/share/ament_index
+creating /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/share/ament_index/resource_index
+creating /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/share/ament_index/resource_index/packages
+copying resource/teleoperation_hopefully -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/share/ament_index/resource_index/packages
+copying package.xml -> /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/share/teleoperation_hopefully
+running install_egg_info
+Copying ../../build/teleoperation_hopefully/teleoperation_hopefully.egg-info to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/python3.10/site-packages/teleoperation_hopefully-0.0.0-py3.10.egg-info
+running install_scripts
+Installing diff_ik_vx300s_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+Installing moveit2_ik_vx300s_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+Installing rx150_fk_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+Installing vx300s_ik_node script to /home/yash_sai/Yash/Arm/ros_ws/install/teleoperation_hopefully/lib/teleoperation_hopefully
+writing list of installed files to '/home/yash_sai/Yash/Arm/ros_ws/build/teleoperation_hopefully/install.log'
