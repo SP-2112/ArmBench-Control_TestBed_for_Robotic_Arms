@@ -247,7 +247,5 @@ arm-bench <command> --help
 ---
 
 
-### Commands
-
 
 
